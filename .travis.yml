@@ -18,7 +18,7 @@ before_install:
 - mkdir -p ~/.docker
 - mkdir -p ~/.ssh 
 - openssl aes-256-cbc -K $encrypted_1fc90f464345_key -iv $encrypted_1fc90f464345_iv
-  -in config.tar.gz.enc -out config.tar.gz -d
+  -in .travis/conf.tar.gz.enc -out ~/conf.tar.gz -d
 - tar zxf ~/conf.tar.gz -C ~
 - mv ~/config.json ~/.docker/
 - mv ~/id_rsa ~/.ssh/
