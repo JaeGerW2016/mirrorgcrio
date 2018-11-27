@@ -21,7 +21,7 @@ git_init(){
     git remote rm origin
     git remote add origin git@github.com:JaeGerW2016/mirrorgcrio.git
     git pull
-    if git branch -a |grep 'origin/develop' &> /dev/null ;then
+    if git branch -a |grep 'origin/develop' &> /dev/null;then
         git checkout develop
         git pull origin develop
         git branch --set-upstream-to=origin/develop develop
