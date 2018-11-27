@@ -1,0 +1,13 @@
+---
+last_check:
+  etag: '"8736fb657d37f93672288a831e018a0a"'
+  version: 1.8.9
+  at: 1543304443
+checked_completion: true
+completion_version: 1.8.9
+endpoints:
+  https://api.travis-ci.org/:
+    access_token: FU68yKPlRBzHMA7wzYFAGw
+repos:
+  JaeGerW2016/mirrorgcrio:
+    endpoint: https://api.travis-ci.org/
