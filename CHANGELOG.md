@@ -1,3 +1,17 @@
+- mirrorgcrio/fluentd-gcp:1.17
+- mirrorgcrio/fluentd-gcp:1.19
+- mirrorgcrio/fluentd-gcp:1.23
+- mirrorgcrio/fluentd-gcp:1.21.1
+- mirrorgcrio/fluentd-gcp:1.30
+- mirrorgcrio/fluentd-gcp:1.28
+- mirrorgcrio/fluentd-gcp:1.29
+- mirrorgcrio/fluentd-gcp:1.27
+- mirrorgcrio/fluentd-gcp:1.26
+- mirrorgcrio/fluentd-gcp:1.25
+- mirrorgcrio/fluentd-gcp:1.31
+- mirrorgcrio/fluentd-gcp:1.28.1
+- mirrorgcrio/fluentd-gcp:1.32
+- mirrorgcrio/fluentd-gcp:1.25.1
 - mirrorgcrio/fluentd-gcp:1.21.2
 - mirrorgcrio/fluentd-gcp:1.28.2-alpha3
 - mirrorgcrio/fluentd-gcp:1.33
