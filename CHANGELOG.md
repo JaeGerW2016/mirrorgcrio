@@ -1,3 +1,5 @@
+- mirrorgcrio/hyperkube:v1.10.2-beta.0
+- mirrorgcrio/hyperkube:v1.8.12-beta.0
 - mirrorgcrio/hugo:latest
 - mirrorgcrio/hyperkube:v1.8.14-beta.0
 - mirrorgcrio/hyperkube:v1.8.14
