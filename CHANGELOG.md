@@ -1,3 +1,13 @@
+- mirrorgcrio/cos-nvidia-driver-install:0cf0d7ab17e346847d38e8cd034dba0c1bab12f6
+- mirrorgcrio/coredns:1.2.6
+- mirrorgcrio/coredns:1.0.6__arm_linux
+- mirrorgcrio/coredns:1.0.6__s390x_linux
+- mirrorgcrio/coredns:1.1.3
+- mirrorgcrio/coredns:1.0.6__ppc64le_linux
+- mirrorgcrio/coredns:1.1.3__arm_linux
+- mirrorgcrio/coredns:1.1.3__ppc64le_linux
+- mirrorgcrio/coredns:1.1.3__arm64_linux
+- mirrorgcrio/coredns:1.1.3__s390x_linux
 - mirrorgcrio/conformance-ppc64le:v1.13.0-alpha.2
 - mirrorgcrio/conformance-ppc64le:v1.13.0-beta.0
 - mirrorgcrio/conformance-arm64:v1.13.0-alpha.2
