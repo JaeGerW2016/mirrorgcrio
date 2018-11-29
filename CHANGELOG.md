@@ -1,3 +1,6 @@
+- mirrorgcrio/hyperkube-ppc64le:v1.11.3
+- mirrorgcrio/hyperkube-ppc64le:v1.10.7
+- mirrorgcrio/hyperkube-ppc64le:v1.13.0-alpha.3
 - mirrorgcrio/hyperkube-arm64:v1.3.0-alpha.4
 - mirrorgcrio/hyperkube-arm64:v1.3.0-alpha.3
 - mirrorgcrio/hyperkube-arm64:v1.3.0-alpha.5
