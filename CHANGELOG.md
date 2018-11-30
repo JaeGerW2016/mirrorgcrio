@@ -1,3 +1,5 @@
+- mirrorgcrio/hyperkube-s390x:v1.8.7
+- mirrorgcrio/hyperkube-s390x:v1.10.0-beta.3
 - mirrorgcrio/hyperkube-s390x:v1.12.0-beta.0
 - mirrorgcrio/hyperkube-s390x:v1.9.10
 - mirrorgcrio/hyperkube-s390x:v1.8.12
