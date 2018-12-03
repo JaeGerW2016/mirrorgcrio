@@ -1,3 +1,13 @@
+- mirrorgcrio/kube-apiserver-ppc64le:v1.9.0-beta.1
+- mirrorgcrio/kube-apiserver-ppc64le:v1.9.0-alpha.2
+- mirrorgcrio/kube-apiserver-ppc64le:v1.10.0-alpha.3
+- mirrorgcrio/kube-apiserver-ppc64le:v1.10.0-beta.0
+- mirrorgcrio/kube-apiserver-ppc64le:v1.11.0-alpha.0
+- mirrorgcrio/kube-apiserver-ppc64le:v1.9.4
+- mirrorgcrio/kube-apiserver-ppc64le:v1.10.0-beta.2
+- mirrorgcrio/kube-apiserver-ppc64le:v1.7.14-beta.0
+- mirrorgcrio/kube-apiserver-ppc64le:v1.7.13
+- mirrorgcrio/kube-apiserver-ppc64le:v1.8.9
 - mirrorgcrio/kube-apiserver-ppc64le:v1.10.0-beta.3
 - mirrorgcrio/kube-apiserver-ppc64le:v1.7.17-beta.0
 - mirrorgcrio/kube-apiserver-ppc64le:v1.10.0-rc.1
