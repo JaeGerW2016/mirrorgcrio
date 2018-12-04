@@ -1,3 +1,17 @@
+- mirrorgcrio/kube-cross:v1.9.2-2
+- mirrorgcrio/kube-cross:v1.11.1-2
+- mirrorgcrio/kube-cross:v1.11.2-1
+- mirrorgcrio/kube-controller-manager-s390x:v1.6.0-alpha.3
+- mirrorgcrio/kube-controller-manager-s390x:v1.7.0-alpha.0
+- mirrorgcrio/kube-controller-manager-s390x:v1.6.0-alpha.2
+- mirrorgcrio/kube-controller-manager-s390x:v1.6.0-alpha.1
+- mirrorgcrio/kube-controller-manager-s390x:v1.6.0-beta.0
+- mirrorgcrio/kube-controller-manager-s390x:v1.6.0-beta.4
+- mirrorgcrio/kube-controller-manager-s390x:v1.6.0-beta.1
+- mirrorgcrio/kube-controller-manager-s390x:v1.6.0
+- mirrorgcrio/kube-controller-manager-s390x:v1.6.0-beta.3
+- mirrorgcrio/kube-controller-manager-s390x:v1.6.0-rc.1
+- mirrorgcrio/kube-controller-manager-s390x:v1.6.1-beta.0
 - mirrorgcrio/kube-controller-manager-s390x:v1.6.2-beta.0
 - mirrorgcrio/kube-controller-manager-s390x:v1.6.1
 - mirrorgcrio/kube-controller-manager-s390x:v1.6.2
