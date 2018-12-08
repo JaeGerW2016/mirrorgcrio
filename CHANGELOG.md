@@ -1,3 +1,10 @@
+- mirrorgcrio/ubuntu-nvidia-driver-installer:70a1113ee4ceb413e21c54ca943bc2f4b984117d
+- mirrorgcrio/submit-queue:latest
+- mirrorgcrio/submit-queue:0.2
+- mirrorgcrio/submit-queue:0.1
+- mirrorgcrio/submit-queue:0.3
+- mirrorgcrio/submit-queue:0.5
+- mirrorgcrio/submit-queue:0.4
 - mirrorgcrio/submit-queue:2016-03-25-a5608e6
 - mirrorgcrio/submit-queue:0.12
 - mirrorgcrio/submit-queue:0.9
