@@ -1,3 +1,4 @@
+-------------------------------at 2018-12-10 08:39:11 sync image repositorys-------------------------------
 - mirrorgcrio/zookeeper-install-3.5.0-alpha:e2e
 - mirrorgcrio/zeppelin:master-86a1a199
 - mirrorgcrio/zeppelin:master-600f728d
