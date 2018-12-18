@@ -1,3 +1,15 @@
+-------------------------------at 2018-12-18 11:03:02 sync image repositorys-------------------------------
+- mirrorgcrio/kubernetes-dashboard-s390x:v1.10.1
+- mirrorgcrio/kubernetes-dashboard-ppc64le:v1.10.1
+- mirrorgcrio/kubernetes-dashboard-arm64:v1.10.1
+- mirrorgcrio/kubernetes-dashboard-arm:v1.10.1
+- mirrorgcrio/kubernetes-dashboard-amd64:v1.10.1
+- mirrorgcrio/kube-scheduler-s390x:v1.12.4
+- mirrorgcrio/kube-scheduler-s390x:v1.12.5-beta.0
+- mirrorgcrio/kube-scheduler-s390x:v1.11.7-beta.0
+- mirrorgcrio/kube-scheduler-s390x:v1.11.6
+- mirrorgcrio/kube-scheduler-ppc64le:v1.12.4
+- mirrorgcrio/kube-scheduler-ppc64le:v1.12.5-beta.0
 - mirrorgcrio/kube-scheduler-ppc64le:v1.11.6
 - mirrorgcrio/kube-scheduler-ppc64le:v1.11.7-beta.0
 - mirrorgcrio/kube-scheduler-arm64:v1.11.7-beta.0
