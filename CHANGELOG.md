@@ -1,3 +1,4 @@
+-------------------------------at 2018-12-29 09:46:24 sync image repositorys-------------------------------
 -------------------------------at 2018-12-20 10:55:38 sync image repositorys-------------------------------
 - mirrorgcrio/kube-cross:v1.10.7-1
 - mirrorgcrio/kube-cross:v1.11.4-1
