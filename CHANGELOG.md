@@ -1,3 +1,6 @@
+-------------------------------at 2019-01-09 10:56:52 sync image repositorys-------------------------------
+- mirrorgcrio/node-problem-detector:v0.6.2
+- mirrorgcrio/cluster-autoscaler:v1.2.4
 -------------------------------at 2019-01-05 10:55:29 sync image repositorys-------------------------------
 - mirrorgcrio/cluster-autoscaler:v1.3.5
 -------------------------------at 2019-01-04 10:49:33 sync image repositorys-------------------------------
