@@ -1,3 +1,8 @@
+-------------------------------at 2019-01-15 10:58:50 sync image repositorys-------------------------------
+- mirrorgcrio/kube-state-metrics-amd64:v1.5.0
+- mirrorgcrio/kube-state-metrics:v1.5.0
+- mirrorgcrio/fluentd-elasticsearch:v2.4.0
+- mirrorgcrio/cluster-autoscaler:v1.12.2
 -------------------------------at 2019-01-11 11:03:37 sync image repositorys-------------------------------
 - mirrorgcrio/managed-certificate-controller:v0.2
 - mirrorgcrio/managed-certificate-controller:v0.2.1
