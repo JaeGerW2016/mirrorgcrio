@@ -1,3 +1,9 @@
+-------------------------------at 2019-01-23 11:02:17 sync image repositorys-------------------------------
+- mirrorgcrio/ubuntu-nvidia-driver-installer:8768accc7565cebd3203fa08ebafad121b89d6dd
+- mirrorgcrio/ubuntu-nvidia-driver-installer:feb27ef33e5fdf1b8ec7dafbf4cf527ee400278a
+- mirrorgcrio/nvidia-gpu-device-plugin:8768accc7565cebd3203fa08ebafad121b89d6dd
+- mirrorgcrio/cos-kernel-headers:20190122-R00-00
+- mirrorgcrio/cos-kernel-headers:live
 -------------------------------at 2019-01-19 11:05:29 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.12.6-beta.0
 - mirrorgcrio/kube-scheduler-s390x:v1.12.5
