@@ -1,3 +1,19 @@
+-------------------------------at 2019-01-25 11:10:48 sync image repositorys-------------------------------
+- mirrorgcrio/ubuntu-nvidia-driver-installer:36552a4cc81b0d900a0d46dfc8b5481557d1dcb7
+- mirrorgcrio/nvidia-gpu-device-plugin:36552a4cc81b0d900a0d46dfc8b5481557d1dcb7
+- mirrorgcrio/kube-scheduler-s390x:v1.11.8-beta.0
+- mirrorgcrio/kube-scheduler-ppc64le:v1.11.8-beta.0
+- mirrorgcrio/kube-scheduler-ppc64le:v1.11.7
+- mirrorgcrio/kube-scheduler-arm64:v1.11.7
+- mirrorgcrio/kube-scheduler-arm64:v1.11.8-beta.0
+- mirrorgcrio/kube-scheduler-arm:v1.11.8-beta.0
+- mirrorgcrio/kube-scheduler-arm:v1.11.7
+- mirrorgcrio/kube-scheduler-amd64:v1.11.7
+- mirrorgcrio/kube-scheduler:v1.11.7
+- mirrorgcrio/kube-scheduler-amd64:v1.11.8-beta.0
+- mirrorgcrio/kube-scheduler:v1.11.8-beta.0
+- mirrorgcrio/kube-proxy-s390x:v1.11.8-beta.0
+- mirrorgcrio/kube-proxy-s390x:v1.11.7
 - mirrorgcrio/kube-proxy-ppc64le:v1.11.8-beta.0
 - mirrorgcrio/kube-proxy-ppc64le:v1.11.7
 - mirrorgcrio/kube-proxy-arm64:v1.11.8-beta.0
