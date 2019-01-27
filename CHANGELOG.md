@@ -1,3 +1,20 @@
+-------------------------------at 2019-01-27 11:11:01 sync image repositorys-------------------------------
+- mirrorgcrio/kube-cross:v1.10.8-1
+- mirrorgcrio/kube-cross:v1.11.5-1
+- mirrorgcrio/etcd-s390x:3.2.26
+- mirrorgcrio/etcd-s390x:3.2.26-0
+- mirrorgcrio/etcd-ppc64le:3.2.26-0
+- mirrorgcrio/etcd-ppc64le:3.2.26
+- mirrorgcrio/git-sync:v3.1.0
+- mirrorgcrio/etcd-arm64:3.2.26-0
+- mirrorgcrio/etcd-arm64:3.2.26
+- mirrorgcrio/etcd:3.2.26
+- mirrorgcrio/etcd-arm:3.2.26-0
+- mirrorgcrio/etcd-arm:3.2.26
+- mirrorgcrio/etcd:3.2.26-0
+- mirrorgcrio/etcd-amd64:3.2.26
+- mirrorgcrio/etcd-amd64:3.2.26-0
+- mirrorgcrio/etcd-empty-dir-cleanup:3.2.26.0
 -------------------------------at 2019-01-25 11:10:48 sync image repositorys-------------------------------
 - mirrorgcrio/ubuntu-nvidia-driver-installer:36552a4cc81b0d900a0d46dfc8b5481557d1dcb7
 - mirrorgcrio/nvidia-gpu-device-plugin:36552a4cc81b0d900a0d46dfc8b5481557d1dcb7
