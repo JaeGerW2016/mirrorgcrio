@@ -1,3 +1,10 @@
+-------------------------------at 2019-01-29 11:03:59 sync image repositorys-------------------------------
+- mirrorgcrio/netd-amd64:latest
+- mirrorgcrio/netd-amd64:0.2.0
+- mirrorgcrio/cluster-proportional-autoscaler-ppc64le:1.4.0
+- mirrorgcrio/cluster-proportional-autoscaler-arm64:1.4.0
+- mirrorgcrio/cluster-proportional-autoscaler-arm:1.4.0
+- mirrorgcrio/cluster-proportional-autoscaler-amd64:1.4.0
 -------------------------------at 2019-01-27 11:11:01 sync image repositorys-------------------------------
 - mirrorgcrio/kube-cross:v1.10.8-1
 - mirrorgcrio/kube-cross:v1.11.5-1
