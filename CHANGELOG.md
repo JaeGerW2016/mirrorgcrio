@@ -1,3 +1,24 @@
+-------------------------------at 2019-02-01 11:09:18 sync image repositorys-------------------------------
+- mirrorgcrio/vpa-recommender:0.3.1
+- mirrorgcrio/vpa-admission-controller:0.3.1
+- mirrorgcrio/vpa-updater:0.3.1
+- mirrorgcrio/debian-hyperkube-base-s390x:0.12.1
+- mirrorgcrio/debian-hyperkube-base-ppc64le:0.12.1
+- mirrorgcrio/debian-hyperkube-base:0.12.1
+- mirrorgcrio/debian-hyperkube-base-arm64:0.12.1
+- mirrorgcrio/debian-hyperkube-base-amd64:0.12.1
+- mirrorgcrio/debian-hyperkube-base-arm:0.12.1
+- mirrorgcrio/debian-iptables-ppc64le:v11.0.1
+- mirrorgcrio/debian-iptables-s390x:v11.0.1
+- mirrorgcrio/debian-iptables-arm:v11.0.1
+- mirrorgcrio/debian-iptables:v11.0.1
+- mirrorgcrio/debian-iptables-amd64:v11.0.1
+- mirrorgcrio/debian-base-s390x:0.4.1
+- mirrorgcrio/debian-base-ppc64le:0.4.1
+- mirrorgcrio/debian-base-arm64:0.4.1
+- mirrorgcrio/debian-base-arm:0.4.1
+- mirrorgcrio/debian-base-amd64:0.4.1
+- mirrorgcrio/debian-base:0.4.1
 -------------------------------at 2019-01-30 11:05:27 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.14.0-alpha.2
 - mirrorgcrio/kube-scheduler-ppc64le:v1.14.0-alpha.2
