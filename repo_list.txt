@@ -134,6 +134,7 @@ gcr.io/google-containers/fluentd-sidecar-gcp
 gcr.io/google-containers/galera-install
 gcr.io/google-containers/gci-mounter
 gcr.io/google-containers/gcp-controller-manager
+gcr.io/google-containers/gcsweb
 gcr.io/google-containers/gcsweb-amd64
 gcr.io/google-containers/gen-swagger-docs
 gcr.io/google-containers/git-sync
