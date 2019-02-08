@@ -1,3 +1,8 @@
+-------------------------------at 2019-02-08 11:15:46 sync image repositorys-------------------------------
+- mirrorgcrio/ubuntu-nvidia-driver-installer:fbca48342ca066be633c30f683b70b7c8ea5d6d0
+- mirrorgcrio/prometheus-to-sd:v0.4.1
+- mirrorgcrio/nvidia-gpu-device-plugin:fbca48342ca066be633c30f683b70b7c8ea5d6d0
+- mirrorgcrio/gcsweb:v1.1.0
 -------------------------------at 2019-02-03 11:11:16 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.13.4-beta.0
 - mirrorgcrio/kube-scheduler-s390x:v1.13.3
