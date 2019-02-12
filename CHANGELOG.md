@@ -1,3 +1,26 @@
+-------------------------------at 2019-02-12 11:23:23 sync image repositorys-------------------------------
+- mirrorgcrio/kube-scheduler-s390x:v1.14.0-alpha.3
+- mirrorgcrio/kube-scheduler-ppc64le:v1.14.0-alpha.3
+- mirrorgcrio/kube-scheduler-arm64:v1.14.0-alpha.3
+- mirrorgcrio/kube-scheduler-arm:v1.14.0-alpha.3
+- mirrorgcrio/kube-scheduler-amd64:v1.14.0-alpha.3
+- mirrorgcrio/kube-proxy-s390x:v1.14.0-alpha.3
+- mirrorgcrio/kube-proxy-ppc64le:v1.14.0-alpha.3
+- mirrorgcrio/kube-proxy-arm64:v1.14.0-alpha.3
+- mirrorgcrio/kube-proxy-arm:v1.14.0-alpha.3
+- mirrorgcrio/kube-proxy-amd64:v1.14.0-alpha.3
+- mirrorgcrio/kube-controller-manager-ppc64le:v1.14.0-alpha.3
+- mirrorgcrio/kube-controller-manager-arm64:v1.14.0-alpha.3
+- mirrorgcrio/kube-controller-manager-arm:v1.14.0-alpha.3
+- mirrorgcrio/kube-controller-manager-amd64:v1.14.0-alpha.3
+- mirrorgcrio/kube-apiserver-ppc64le:v1.14.0-alpha.3
+- mirrorgcrio/kube-apiserver-arm64:v1.14.0-alpha.3
+- mirrorgcrio/kube-apiserver-arm:v1.14.0-alpha.3
+- mirrorgcrio/hyperkube-arm64:v1.14.0-alpha.3
+- mirrorgcrio/kube-apiserver-amd64:v1.14.0-alpha.3
+- mirrorgcrio/hyperkube-arm:v1.14.0-alpha.3
+- mirrorgcrio/hyperkube-amd64:v1.14.0-alpha.3
+- mirrorgcrio/ingress-gce-glbc-amd64:v1.4.3
 -------------------------------at 2019-02-08 11:15:46 sync image repositorys-------------------------------
 - mirrorgcrio/ubuntu-nvidia-driver-installer:fbca48342ca066be633c30f683b70b7c8ea5d6d0
 - mirrorgcrio/prometheus-to-sd:v0.4.1
