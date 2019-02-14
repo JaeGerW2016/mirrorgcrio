@@ -1,3 +1,13 @@
+-------------------------------at 2019-02-14 11:24:40 sync image repositorys-------------------------------
+- mirrorgcrio/managed-certificate-controller:v0.2.2
+- mirrorgcrio/kube-scheduler-s390x:v1.10.14-beta.0
+- mirrorgcrio/kube-scheduler-s390x:v1.10.13
+- mirrorgcrio/kube-scheduler-ppc64le:v1.10.14-beta.0
+- mirrorgcrio/kube-scheduler-ppc64le:v1.10.13
+- mirrorgcrio/kube-scheduler-arm64:v1.10.14-beta.0
+- mirrorgcrio/kube-scheduler-arm64:v1.10.13
+- mirrorgcrio/kube-scheduler-arm:v1.10.13
+- mirrorgcrio/kube-scheduler-arm:v1.10.14-beta.0
 - mirrorgcrio/kube-scheduler-amd64:v1.10.13
 - mirrorgcrio/kube-scheduler-amd64:v1.10.14-beta.0
 - mirrorgcrio/kube-scheduler:v1.10.13
