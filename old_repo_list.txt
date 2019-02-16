@@ -145,6 +145,7 @@ gcr.io/google-containers/github-transform
 gcr.io/google-containers/gitolite-http
 gcr.io/google-containers/gke-certificates-controller
 gcr.io/google-containers/gke-cloud-kms-plugin
+gcr.io/google-containers/gke-cloud-kms-sync
 gcr.io/google-containers/gke-launcher
 gcr.io/google-containers/gke-master-backup
 gcr.io/google-containers/gke-mpi-api-server
