@@ -1,3 +1,6 @@
+-------------------------------at 2019-02-16 11:11:03 sync image repositorys-------------------------------
+- mirrorgcrio/git-sync:v3.1.1
+- mirrorgcrio/cluster-autoscaler:v1.3.7
 -------------------------------at 2019-02-14 11:24:40 sync image repositorys-------------------------------
 - mirrorgcrio/managed-certificate-controller:v0.2.2
 - mirrorgcrio/kube-scheduler-s390x:v1.10.14-beta.0
