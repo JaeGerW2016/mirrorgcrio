@@ -1,3 +1,5 @@
+-------------------------------at 2019-02-23 11:22:38 sync image repositorys-------------------------------
+- mirrorgcrio/gvisor-admission-webhook-amd64:8ff1eff9f6e32b89190b9c66cbaaffc90666b85a
 -------------------------------at 2019-02-21 11:21:06 sync image repositorys-------------------------------
 - mirrorgcrio/vpa-admission-controller:0.4.0
 - mirrorgcrio/vpa-recommender:0.4.0
