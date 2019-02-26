@@ -1,3 +1,9 @@
+-------------------------------at 2019-02-26 11:22:23 sync image repositorys-------------------------------
+- mirrorgcrio/ubuntu-nvidia-driver-installer:17ba3dcf8b6b7551dc8a6cd68ca4119c4fd3a2b9
+- mirrorgcrio/ubuntu-nvidia-driver-installer:4d5db9638165d86f0c58001f45ea111ce3d8e4a0
+- mirrorgcrio/nvidia-gpu-device-plugin:17ba3dcf8b6b7551dc8a6cd68ca4119c4fd3a2b9
+- mirrorgcrio/ingress-gce-glbc-amd64:v1.5.0
+- mirrorgcrio/event-exporter:v0.2.4
 -------------------------------at 2019-02-23 11:22:38 sync image repositorys-------------------------------
 - mirrorgcrio/gvisor-admission-webhook-amd64:8ff1eff9f6e32b89190b9c66cbaaffc90666b85a
 -------------------------------at 2019-02-21 11:21:06 sync image repositorys-------------------------------
