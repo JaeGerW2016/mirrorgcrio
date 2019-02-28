@@ -1,3 +1,23 @@
+-------------------------------at 2019-02-28 11:27:58 sync image repositorys-------------------------------
+- mirrorgcrio/prometheus-to-sd:v0.5.0
+- mirrorgcrio/kube-state-metrics-s390x:v1.5.0
+- mirrorgcrio/kube-state-metrics-ppc64le:v1.5.0
+- mirrorgcrio/kube-state-metrics-arm64:v1.5.0
+- mirrorgcrio/kube-state-metrics-arm:v1.5.0
+- mirrorgcrio/kube-scheduler-s390x:v1.14.0-beta.1
+- mirrorgcrio/kube-scheduler-s390x:v1.12.7-beta.0
+- mirrorgcrio/kube-scheduler-s390x:v1.12.6
+- mirrorgcrio/kube-scheduler-ppc64le:v1.14.0-beta.1
+- mirrorgcrio/kube-scheduler-ppc64le:v1.12.6
+- mirrorgcrio/kube-scheduler-ppc64le:v1.12.7-beta.0
+- mirrorgcrio/kube-scheduler-arm64:v1.12.6
+- mirrorgcrio/kube-scheduler-arm64:v1.12.7-beta.0
+- mirrorgcrio/kube-scheduler-arm:v1.14.0-beta.1
+- mirrorgcrio/kube-scheduler-arm:v1.12.6
+- mirrorgcrio/kube-scheduler-arm:v1.12.7-beta.0
+- mirrorgcrio/kube-scheduler-amd64:v1.12.6
+- mirrorgcrio/kube-scheduler:v1.12.6
+- mirrorgcrio/kube-scheduler-amd64:v1.14.0-beta.1
 - mirrorgcrio/kube-cross:v1.12.0-1
 - mirrorgcrio/kube-scheduler:v1.12.7-beta.0
 - mirrorgcrio/kube-scheduler:v1.14.0-beta.1
