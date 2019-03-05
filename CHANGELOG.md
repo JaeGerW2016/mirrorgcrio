@@ -1,3 +1,5 @@
+-------------------------------at 2019-03-05 11:58:14 sync image repositorys-------------------------------
+- mirrorgcrio/kubelet-to-gcm:1.2.9
 -------------------------------at 2019-03-01 11:31:27 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.13.5-beta.0
 - mirrorgcrio/kube-scheduler-s390x:v1.13.4
