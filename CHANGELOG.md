@@ -1,3 +1,5 @@
+-------------------------------at 2019-03-07 11:59:21 sync image repositorys-------------------------------
+- mirrorgcrio/managed-certificate-controller:v0.3.0
 -------------------------------at 2019-03-05 11:58:14 sync image repositorys-------------------------------
 - mirrorgcrio/kubelet-to-gcm:1.2.9
 -------------------------------at 2019-03-01 11:31:27 sync image repositorys-------------------------------
