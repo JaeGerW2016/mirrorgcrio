@@ -1,3 +1,9 @@
+-------------------------------at 2019-03-09 11:23:13 sync image repositorys-------------------------------
+- mirrorgcrio/kubelet-to-gcm:1.2.10
+- mirrorgcrio/cluster-autoscaler:v1.12.3
+- mirrorgcrio/cluster-autoscaler:v1.3.8
+- mirrorgcrio/cluster-autoscaler:v1.2.5
+- mirrorgcrio/cluster-autoscaler:v1.14.0-beta.1
 -------------------------------at 2019-03-07 11:59:21 sync image repositorys-------------------------------
 - mirrorgcrio/managed-certificate-controller:v0.3.0
 -------------------------------at 2019-03-05 11:58:14 sync image repositorys-------------------------------
