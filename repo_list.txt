@@ -148,6 +148,7 @@ gcr.io/google-containers/gke-cloud-kms-plugin
 gcr.io/google-containers/gke-cloud-kms-sync
 gcr.io/google-containers/gke-launcher
 gcr.io/google-containers/gke-master-backup
+gcr.io/google-containers/gke-metadata-server
 gcr.io/google-containers/gke-mpi-api-server
 gcr.io/google-containers/gke-mpi-metadata-server
 gcr.io/google-containers/gke-node-termination-handler
