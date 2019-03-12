@@ -1,3 +1,7 @@
+-------------------------------at 2019-03-12 11:24:38 sync image repositorys-------------------------------
+- mirrorgcrio/gke-metadata-server:v0.2.0
+- mirrorgcrio/gke-metadata-server:0cc277a18a8958daf46012010175fddd5f8ac044
+- mirrorgcrio/cluster-autoscaler:v1.13.2
 -------------------------------at 2019-03-09 11:23:13 sync image repositorys-------------------------------
 - mirrorgcrio/kubelet-to-gcm:1.2.10
 - mirrorgcrio/cluster-autoscaler:v1.12.3
