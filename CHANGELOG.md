@@ -1,3 +1,6 @@
+-------------------------------at 2019-03-14 11:34:20 sync image repositorys-------------------------------
+- mirrorgcrio/gke-metadata-server:7c631f64e667357cb20a05c3bb8523b84073ad10
+- mirrorgcrio/gke-metadata-server:v0.2.1
 -------------------------------at 2019-03-13 11:27:22 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.14.0-beta.2
 - mirrorgcrio/kube-scheduler-ppc64le:v1.14.0-beta.2
