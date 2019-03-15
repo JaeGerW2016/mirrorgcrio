@@ -1,3 +1,7 @@
+-------------------------------at 2019-03-15 11:26:26 sync image repositorys-------------------------------
+- mirrorgcrio/k8s-tpu-operator:0585ea2d8131291cc041329e32bb7c81263cf7c5
+- mirrorgcrio/fluentd-gcp:2.1.0
+- mirrorgcrio/cluster-autoscaler:v1.14.0-beta.2
 -------------------------------at 2019-03-14 11:34:20 sync image repositorys-------------------------------
 - mirrorgcrio/gke-metadata-server:7c631f64e667357cb20a05c3bb8523b84073ad10
 - mirrorgcrio/gke-metadata-server:v0.2.1
