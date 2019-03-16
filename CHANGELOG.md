@@ -1,3 +1,8 @@
+-------------------------------at 2019-03-16 11:37:56 sync image repositorys-------------------------------
+- mirrorgcrio/kube-cross:v1.12.1-1
+- mirrorgcrio/prometheus-to-sd:v0.5.1
+- mirrorgcrio/gke-metadata-server:v0.2.2
+- mirrorgcrio/gke-metadata-server:24c80908bf1c4b1ce589bc755b6f05904fc589b6
 -------------------------------at 2019-03-15 11:26:26 sync image repositorys-------------------------------
 - mirrorgcrio/k8s-tpu-operator:0585ea2d8131291cc041329e32bb7c81263cf7c5
 - mirrorgcrio/fluentd-gcp:2.1.0
