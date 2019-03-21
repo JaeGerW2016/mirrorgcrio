@@ -1,3 +1,6 @@
+-------------------------------at 2019-03-21 11:38:24 sync image repositorys-------------------------------
+- mirrorgcrio/gvisor-admission-webhook-amd64:78c403330522711939493a920c9df5157c08289b
+- mirrorgcrio/gcp-controller-manager:e463d10aaa01cde79b4ea9125a9e52626baa6a19
 -------------------------------at 2019-03-20 11:32:57 sync image repositorys-------------------------------
 - mirrorgcrio/toolbox:latest
 - mirrorgcrio/kube-cross:v1.12.1-2
