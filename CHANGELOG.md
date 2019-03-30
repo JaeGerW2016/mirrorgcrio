@@ -1,3 +1,7 @@
+-------------------------------at 2019-03-30 11:33:45 sync image repositorys-------------------------------
+- mirrorgcrio/cluster-proportional-autoscaler-ppc64le:1.5.0
+- mirrorgcrio/cluster-proportional-autoscaler-arm64:1.5.0
+- mirrorgcrio/cluster-proportional-autoscaler-amd64:1.5.0
 -------------------------------at 2019-03-26 12:08:52 sync image repositorys-------------------------------
 - mirrorgcrio/vpa-updater:0.5.0
 - mirrorgcrio/vpa-admission-controller:0.5.0
