@@ -1,3 +1,10 @@
+-------------------------------at 2019-04-02 11:38:28 sync image repositorys-------------------------------
+- mirrorgcrio/debian-iptables-ppc64le:v11.0.2
+- mirrorgcrio/debian-iptables-s390x:v11.0.2
+- mirrorgcrio/debian-iptables-arm64:v11.0.2
+- mirrorgcrio/debian-iptables-arm:v11.0.2
+- mirrorgcrio/debian-iptables:v11.0.2
+- mirrorgcrio/debian-iptables-amd64:v11.0.2
 -------------------------------at 2019-03-30 11:33:45 sync image repositorys-------------------------------
 - mirrorgcrio/cluster-proportional-autoscaler-ppc64le:1.5.0
 - mirrorgcrio/cluster-proportional-autoscaler-arm64:1.5.0
