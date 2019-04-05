@@ -1,3 +1,7 @@
+-------------------------------at 2019-04-05 11:34:10 sync image repositorys-------------------------------
+- mirrorgcrio/gcp-controller-manager:aa768aa30de1936f81bf2bc5e5d19d136a3af763
+- mirrorgcrio/cadvisor:v0.33.0
+- mirrorgcrio/cadvisor:latest
 -------------------------------at 2019-04-02 11:38:28 sync image repositorys-------------------------------
 - mirrorgcrio/debian-iptables-ppc64le:v11.0.2
 - mirrorgcrio/debian-iptables-s390x:v11.0.2
