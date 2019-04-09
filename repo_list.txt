@@ -466,6 +466,7 @@ gcr.io/google-containers/volume-rbd
 gcr.io/google-containers/vpa-admission-controller
 gcr.io/google-containers/vpa-recommender
 gcr.io/google-containers/vpa-updater
+gcr.io/google-containers/watcher-daemonset
 gcr.io/google-containers/webhooks-publisher
 gcr.io/google-containers/zeppelin
 gcr.io/google-containers/zeppelin-proxy
