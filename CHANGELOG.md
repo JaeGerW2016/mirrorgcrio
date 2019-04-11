@@ -1,3 +1,9 @@
+-------------------------------at 2019-04-11 12:15:32 sync image repositorys-------------------------------
+- mirrorgcrio/metrics-server-s390x:v0.3.2
+- mirrorgcrio/metrics-server-ppc64le:v0.3.2
+- mirrorgcrio/metrics-server-arm64:v0.3.2
+- mirrorgcrio/metrics-server-arm:v0.3.2
+- mirrorgcrio/metrics-server-amd64:v0.3.2
 -------------------------------at 2019-04-09 11:44:51 sync image repositorys-------------------------------
 - mirrorgcrio/watcher-daemonset:latest
 - mirrorgcrio/node-problem-detector:v0.6.3
