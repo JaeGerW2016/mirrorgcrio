@@ -1,3 +1,11 @@
+-------------------------------at 2019-04-23 11:46:13 sync image repositorys-------------------------------
+- mirrorgcrio/ubuntu-nvidia-driver-installer:689388185fe7e13fd6fd2fae497c422bd048e611
+- mirrorgcrio/vpa-recommender:0.4.1
+- mirrorgcrio/vpa-updater:0.4.1
+- mirrorgcrio/vpa-admission-controller:0.4.1
+- mirrorgcrio/cos-kernel-headers:live
+- mirrorgcrio/cos-kernel-headers:latest
+- mirrorgcrio/cos-kernel-headers:20190422-R00-00
 -------------------------------at 2019-04-18 11:50:18 sync image repositorys-------------------------------
 - mirrorgcrio/gke-metadata-server:v0.2.3
 - mirrorgcrio/gke-metadata-server:89f06b8083c6bfc052eb504af55e9b91b944d500
