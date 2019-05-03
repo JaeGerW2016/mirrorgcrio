@@ -1,3 +1,8 @@
+-------------------------------at 2019-05-03 11:57:06 sync image repositorys-------------------------------
+- mirrorgcrio/metrics-server:v0.3.3
+- mirrorgcrio/metrics-server-amd64:v0.3.3
+- mirrorgcrio/metadata-proxy:v0.1.12
+- mirrorgcrio/gcp-controller-manager:c0cb3ff2564945d3338fdf90e700aa286fba5f2e
 -------------------------------at 2019-05-02 11:57:12 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.11.10
 - mirrorgcrio/kube-scheduler-s390x:v1.11.11-beta.0
