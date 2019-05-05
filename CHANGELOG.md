@@ -1,3 +1,7 @@
+-------------------------------at 2019-05-05 11:59:30 sync image repositorys-------------------------------
+- mirrorgcrio/ingress-gce-glbc-amd64:v1.5.2
+- mirrorgcrio/gke-metadata-server:v0.2.5
+- mirrorgcrio/gke-metadata-server:3dd743e75355b14b003af292b6dec8bb50a6a00f
 -------------------------------at 2019-05-03 11:57:06 sync image repositorys-------------------------------
 - mirrorgcrio/metrics-server:v0.3.3
 - mirrorgcrio/metrics-server-amd64:v0.3.3
