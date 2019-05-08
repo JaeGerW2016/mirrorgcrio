@@ -1,3 +1,5 @@
+-------------------------------at 2019-05-08 11:58:15 sync image repositorys-------------------------------
+- mirrorgcrio/managed-certificate-controller:v0.3.2
 - mirrorgcrio/kube-state-metrics-ppc64le:v1.6.0
 - mirrorgcrio/kube-state-metrics-s390x:v1.6.0
 - mirrorgcrio/kube-state-metrics-arm64:v1.6.0
