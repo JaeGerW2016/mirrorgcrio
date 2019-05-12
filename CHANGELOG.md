@@ -1,3 +1,7 @@
+-------------------------------at 2019-05-12 11:56:08 sync image repositorys-------------------------------
+- mirrorgcrio/cos-kernel-headers:latest
+- mirrorgcrio/cos-kernel-headers:live
+- mirrorgcrio/cos-kernel-headers:20190510-R00-00
 -------------------------------at 2019-05-10 11:59:49 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.13.7-beta.0
 - mirrorgcrio/kube-scheduler-s390x:v1.13.6
