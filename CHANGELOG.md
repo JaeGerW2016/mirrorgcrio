@@ -1,3 +1,13 @@
+-------------------------------at 2019-05-14 11:57:28 sync image repositorys-------------------------------
+- mirrorgcrio/prometheus-to-sd:v0.5.2
+- mirrorgcrio/kubelet-to-gcm:1.2.11
+- mirrorgcrio/ip-masq-agent-ppc64le:v2.4.0
+- mirrorgcrio/ip-masq-agent-arm64:v2.4.0
+- mirrorgcrio/ip-masq-agent-arm:v2.4.0
+- mirrorgcrio/ip-masq-agent:v2.4.0
+- mirrorgcrio/ip-masq-agent-amd64:v2.4.0
+- mirrorgcrio/event-exporter:v0.2.5
+- mirrorgcrio/cpvpa-amd64:v0.7.1
 -------------------------------at 2019-05-12 11:56:08 sync image repositorys-------------------------------
 - mirrorgcrio/cos-kernel-headers:latest
 - mirrorgcrio/cos-kernel-headers:live
