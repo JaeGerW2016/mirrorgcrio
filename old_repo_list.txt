@@ -391,6 +391,8 @@ gcr.io/google-containers/porter
 gcr.io/google-containers/portforwardtester
 gcr.io/google-containers/prometheus-dummy-exporter
 gcr.io/google-containers/prometheus-to-sd
+gcr.io/google-containers/proxy-agent
+gcr.io/google-containers/proxy-server
 gcr.io/google-containers/proxy-to-service
 gcr.io/google-containers/publisher
 gcr.io/google-containers/python
