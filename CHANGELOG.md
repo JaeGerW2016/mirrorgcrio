@@ -1,3 +1,34 @@
+-------------------------------at 2019-05-31 12:22:42 sync image repositorys-------------------------------
+- mirrorgcrio/ubuntu-nvidia-driver-installer:4baa941d8df91e5dc1736adea74ce54e564dd782
+- mirrorgcrio/ubuntu-nvidia-driver-installer:3094d4b75351008bbd0813a12bdadcd00c9756bf
+- mirrorgcrio/proxy-server:v0.0.1
+- mirrorgcrio/proxy-agent:v0.0.1
+- mirrorgcrio/nvidia-gpu-device-plugin:4baa941d8df91e5dc1736adea74ce54e564dd782
+- mirrorgcrio/managed-certificate-controller:v0.3.3
+- mirrorgcrio/k8s-dns-sidecar-s390x:1.15.3
+- mirrorgcrio/k8s-dns-sidecar-ppc64le:1.15.3
+- mirrorgcrio/k8s-dns-sidecar-arm64:1.15.3
+- mirrorgcrio/k8s-dns-sidecar-arm:1.15.3
+- mirrorgcrio/k8s-dns-sidecar:1.15.3
+- mirrorgcrio/k8s-dns-sidecar-amd64:1.15.3
+- mirrorgcrio/k8s-dns-node-cache-s390x:1.15.3
+- mirrorgcrio/k8s-dns-node-cache-ppc64le:1.15.3
+- mirrorgcrio/k8s-dns-node-cache-arm64:1.15.3
+- mirrorgcrio/k8s-dns-node-cache-arm:1.15.3
+- mirrorgcrio/k8s-dns-node-cache-amd64:1.15.3
+- mirrorgcrio/k8s-dns-kube-dns-s390x:1.15.3
+- mirrorgcrio/k8s-dns-kube-dns-ppc64le:1.15.3
+- mirrorgcrio/k8s-dns-node-cache:1.15.3
+- mirrorgcrio/k8s-dns-kube-dns-arm64:1.15.3
+- mirrorgcrio/k8s-dns-kube-dns:1.15.3
+- mirrorgcrio/k8s-dns-kube-dns-arm:1.15.3
+- mirrorgcrio/k8s-dns-kube-dns-amd64:1.15.3
+- mirrorgcrio/k8s-dns-dnsmasq-nanny-s390x:1.15.3
+- mirrorgcrio/k8s-dns-dnsmasq-nanny-ppc64le:1.15.3
+- mirrorgcrio/k8s-dns-dnsmasq-nanny-arm64:1.15.3
+- mirrorgcrio/k8s-dns-dnsmasq-nanny-arm:1.15.3
+- mirrorgcrio/k8s-dns-dnsmasq-nanny:1.15.3
+- mirrorgcrio/k8s-dns-dnsmasq-nanny-amd64:1.15.3
 -------------------------------at 2019-05-29 12:05:39 sync image repositorys-------------------------------
 - mirrorgcrio/ubuntu-nvidia-driver-installer:c7e09170d78ded80dfe42a19257e8463810c0442
 - mirrorgcrio/nvidia-gpu-device-plugin:c7e09170d78ded80dfe42a19257e8463810c0442
