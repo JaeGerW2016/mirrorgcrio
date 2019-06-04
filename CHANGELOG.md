@@ -1,3 +1,8 @@
+-------------------------------at 2019-06-04 12:08:21 sync image repositorys-------------------------------
+- mirrorgcrio/gcp-controller-manager:08fa1e3260ffb267682762e24ba93692000e3be8
+- mirrorgcrio/cluster-autoscaler:v1.12.6
+- mirrorgcrio/cluster-autoscaler:v1.14.3
+- mirrorgcrio/cluster-autoscaler:v1.13.5
 -------------------------------at 2019-05-31 12:22:42 sync image repositorys-------------------------------
 - mirrorgcrio/ubuntu-nvidia-driver-installer:4baa941d8df91e5dc1736adea74ce54e564dd782
 - mirrorgcrio/ubuntu-nvidia-driver-installer:3094d4b75351008bbd0813a12bdadcd00c9756bf
