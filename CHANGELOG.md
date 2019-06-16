@@ -1,3 +1,5 @@
+-------------------------------at 2019-06-16 12:26:43 sync image repositorys-------------------------------
+- mirrorgcrio/ingress-gce-glbc-amd64:v1.6.0
 -------------------------------at 2019-06-14 12:28:49 sync image repositorys-------------------------------
 - mirrorgcrio/node-problem-detector:v0.6.4
 - mirrorgcrio/k8s-dns-sidecar-s390x:1.15.4
