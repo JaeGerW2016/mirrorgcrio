@@ -188,6 +188,7 @@ gcr.io/google-containers/hyperkube-arm
 gcr.io/google-containers/hyperkube-arm64
 gcr.io/google-containers/hyperkube-ppc64le
 gcr.io/google-containers/hyperkube-s390x
+gcr.io/google-containers/ingress-gce-404-server-with-metrics-amd64
 gcr.io/google-containers/ingress-gce-glbc-amd64
 gcr.io/google-containers/ip-masq-agent
 gcr.io/google-containers/ip-masq-agent-amd64
