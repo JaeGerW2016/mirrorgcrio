@@ -125,6 +125,7 @@ gcr.io/google-containers/flannel-arm
 gcr.io/google-containers/flannel-arm64
 gcr.io/google-containers/flannel-ppc64le
 gcr.io/google-containers/flannel-server-helper
+gcr.io/google-containers/fluent-bit-sd
 gcr.io/google-containers/fluentd-elasticsearch
 gcr.io/google-containers/fluentd-gcp
 gcr.io/google-containers/fluentd-gcp-scaler
