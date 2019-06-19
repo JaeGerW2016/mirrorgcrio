@@ -1,3 +1,7 @@
+-------------------------------at 2019-06-19 12:24:16 sync image repositorys-------------------------------
+- mirrorgcrio/startup-script:v2
+- mirrorgcrio/kube-cross:v1.12.6-1
+- mirrorgcrio/fluent-bit-sd:0.1
 -------------------------------at 2019-06-18 12:29:52 sync image repositorys-------------------------------
 - mirrorgcrio/ingress-gce-404-server-with-metrics-amd64:v1.6.0
 -------------------------------at 2019-06-16 12:26:43 sync image repositorys-------------------------------
