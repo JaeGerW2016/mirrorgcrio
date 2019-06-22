@@ -1,3 +1,5 @@
+-------------------------------at 2019-06-22 12:50:03 sync image repositorys-------------------------------
+- mirrorgcrio/kube-proxy-amd64:v1.12.7-gke.22
 -------------------------------at 2019-06-20 12:21:41 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.15.1-beta.0
 - mirrorgcrio/kube-scheduler-ppc64le:v1.15.0
