@@ -1,3 +1,8 @@
+-------------------------------at 2019-07-05 12:21:48 sync image repositorys-------------------------------
+- mirrorgcrio/netd-amd64:latest
+- mirrorgcrio/netd-amd64:0.2.1
+- mirrorgcrio/heapster-amd64:v1.7.0
+- mirrorgcrio/addon-builder:latest
 -------------------------------at 2019-06-22 12:50:03 sync image repositorys-------------------------------
 - mirrorgcrio/kube-proxy-amd64:v1.12.7-gke.22
 -------------------------------at 2019-06-20 12:21:41 sync image repositorys-------------------------------
