@@ -1,3 +1,6 @@
+-------------------------------at 2019-07-10 12:25:45 sync image repositorys-------------------------------
+- mirrorgcrio/addon-builder:latest
+- mirrorgcrio/custom-metrics-stackdriver-adapter:v0.10.0
 -------------------------------at 2019-07-08 12:48:46 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.12.10
 - mirrorgcrio/kube-scheduler-s390x:v1.12.11-beta.0
