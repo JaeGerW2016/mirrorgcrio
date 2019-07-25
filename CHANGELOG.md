@@ -1,3 +1,13 @@
+-------------------------------at 2019-07-25 12:39:17 sync image repositorys-------------------------------
+- mirrorgcrio/prometheus-to-sd:v0.6.0
+- mirrorgcrio/node-problem-detector:v0.6.5
+- mirrorgcrio/kube-state-metrics-s390x:v1.7.1
+- mirrorgcrio/kube-state-metrics-ppc64le:v1.7.1
+- mirrorgcrio/kube-state-metrics-arm64:v1.7.1
+- mirrorgcrio/kube-state-metrics-arm:v1.7.1
+- mirrorgcrio/kube-state-metrics:v1.7.1
+- mirrorgcrio/kube-state-metrics-amd64:v1.7.1
+- mirrorgcrio/addon-builder:latest
 -------------------------------at 2019-07-21 12:31:47 sync image repositorys-------------------------------
 - mirrorgcrio/kube-state-metrics-s390x:v1.7.0
 - mirrorgcrio/kube-state-metrics-ppc64le:v1.7.0
