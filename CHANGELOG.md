@@ -1,3 +1,6 @@
+-------------------------------at 2019-07-27 12:43:42 sync image repositorys-------------------------------
+- mirrorgcrio/node-problem-detector:v0.7.0
+- mirrorgcrio/git-sync:v3.1.2
 -------------------------------at 2019-07-25 12:39:17 sync image repositorys-------------------------------
 - mirrorgcrio/prometheus-to-sd:v0.6.0
 - mirrorgcrio/node-problem-detector:v0.6.5
