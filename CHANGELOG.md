@@ -1,3 +1,5 @@
+-------------------------------at 2019-08-03 12:46:04 sync image repositorys-------------------------------
+- mirrorgcrio/event-exporter:v0.3.0
 -------------------------------at 2019-08-01 12:42:04 sync image repositorys-------------------------------
 - mirrorgcrio/kube-addon-manager-s390x:v9.0.2
 - mirrorgcrio/kube-addon-manager-ppc64le:v9.0.2
