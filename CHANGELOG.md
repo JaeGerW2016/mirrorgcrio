@@ -1,3 +1,8 @@
+-------------------------------at 2019-08-16 12:57:56 sync image repositorys-------------------------------
+- mirrorgcrio/kube-cross:v1.12.9-1
+- mirrorgcrio/gke-metadata-server:4c6f4deefec1a6bc1718ef022367a1879c9d6a4d
+- mirrorgcrio/gke-metadata-server:v0.2.7
+- mirrorgcrio/gke-metadata-server:v0.2.6
 -------------------------------at 2019-08-14 12:58:08 sync image repositorys-------------------------------
 - mirrorgcrio/prometheus-to-sd:v0.7.0
 - mirrorgcrio/prometheus-to-sd:v0.7.1
