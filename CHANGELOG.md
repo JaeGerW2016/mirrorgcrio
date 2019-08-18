@@ -1,3 +1,8 @@
+-------------------------------at 2019-08-18 12:48:49 sync image repositorys-------------------------------
+- mirrorgcrio/kube-cross:v1.11.13-1
+- mirrorgcrio/gke-metadata-server:v0.2.8
+- mirrorgcrio/gke-metadata-server:95633dc2005ae5c1f9764964fb7c78fac719eaf8
+- mirrorgcrio/cluster-proportional-autoscaler-amd64:1.7.0
 -------------------------------at 2019-08-16 12:57:56 sync image repositorys-------------------------------
 - mirrorgcrio/kube-cross:v1.12.9-1
 - mirrorgcrio/gke-metadata-server:4c6f4deefec1a6bc1718ef022367a1879c9d6a4d
