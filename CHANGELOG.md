@@ -1,3 +1,6 @@
+-------------------------------at 2019-08-20 12:46:41 sync image repositorys-------------------------------
+- mirrorgcrio/cloud-controller-manager:v1.14.7-beta.0
+- mirrorgcrio/cloud-controller-manager:v1.15.4-beta.0
 -------------------------------at 2019-08-19 13:24:02 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.13.11-beta.0
 - mirrorgcrio/kube-scheduler-s390x:v1.13.10
