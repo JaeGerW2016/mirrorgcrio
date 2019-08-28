@@ -1,3 +1,5 @@
+-------------------------------at 2019-08-28 12:52:30 sync image repositorys-------------------------------
+- mirrorgcrio/cluster-proportional-autoscaler-amd64:1.7.1
 -------------------------------at 2019-08-23 13:07:58 sync image repositorys-------------------------------
 - mirrorgcrio/slo-monitor:0.12.0
 - mirrorgcrio/k8s-dns-sidecar-s390x:1.15.5
