@@ -1,3 +1,6 @@
+-------------------------------at 2019-08-30 12:56:41 sync image repositorys-------------------------------
+- mirrorgcrio/node-problem-detector:v0.7.1
+- mirrorgcrio/coredns:1.6.2
 -------------------------------at 2019-08-28 12:52:30 sync image repositorys-------------------------------
 - mirrorgcrio/cluster-proportional-autoscaler-amd64:1.7.1
 -------------------------------at 2019-08-23 13:07:58 sync image repositorys-------------------------------
