@@ -1,3 +1,9 @@
+-------------------------------at 2019-09-03 13:13:05 sync image repositorys-------------------------------
+- mirrorgcrio/ip-masq-agent-ppc64le:v2.5.0
+- mirrorgcrio/ip-masq-agent-arm64:v2.5.0
+- mirrorgcrio/ip-masq-agent-arm:v2.5.0
+- mirrorgcrio/ip-masq-agent-amd64:v2.5.0
+- mirrorgcrio/ip-masq-agent:v2.5.0
 -------------------------------at 2019-08-30 12:56:41 sync image repositorys-------------------------------
 - mirrorgcrio/node-problem-detector:v0.7.1
 - mirrorgcrio/coredns:1.6.2
