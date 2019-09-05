@@ -1,3 +1,13 @@
+-------------------------------at 2019-09-05 13:05:29 sync image repositorys-------------------------------
+- mirrorgcrio/watcher-daemonset:alpha1
+- mirrorgcrio/metrics-server-s390x:v0.3.4
+- mirrorgcrio/metrics-server-ppc64le:v0.3.4
+- mirrorgcrio/metrics-server-arm64:v0.3.4
+- mirrorgcrio/metrics-server-arm:v0.3.4
+- mirrorgcrio/metrics-server-amd64:v0.3.4
+- mirrorgcrio/metrics-server:v0.3.4
+- mirrorgcrio/kubelet-to-gcm:1.2.12
+- mirrorgcrio/kube-scheduler-s390x:v1.16.0-beta.2
 - mirrorgcrio/kube-scheduler-ppc64le:v1.16.0-beta.2
 - mirrorgcrio/kube-scheduler-arm64:v1.16.0-beta.2
 - mirrorgcrio/kube-scheduler-arm:v1.16.0-beta.2
