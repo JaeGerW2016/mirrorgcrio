@@ -1,3 +1,5 @@
+-------------------------------at 2019-09-07 12:58:34 sync image repositorys-------------------------------
+- mirrorgcrio/cluster-autoscaler:v1.16.0-beta.1
 -------------------------------at 2019-09-05 13:05:29 sync image repositorys-------------------------------
 - mirrorgcrio/watcher-daemonset:alpha1
 - mirrorgcrio/metrics-server-s390x:v0.3.4
