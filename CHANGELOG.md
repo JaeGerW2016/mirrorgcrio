@@ -1,3 +1,7 @@
+-------------------------------at 2019-09-10 12:58:41 sync image repositorys-------------------------------
+- mirrorgcrio/prometheus-to-sd:v0.7.2
+- mirrorgcrio/ingress-gce-glbc-amd64:v1.7.0
+- mirrorgcrio/cluster-autoscaler:v1.16.0
 -------------------------------at 2019-09-07 12:58:34 sync image repositorys-------------------------------
 - mirrorgcrio/cluster-autoscaler:v1.16.0-beta.1
 -------------------------------at 2019-09-05 13:05:29 sync image repositorys-------------------------------
