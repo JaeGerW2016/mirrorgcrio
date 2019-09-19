@@ -1,3 +1,13 @@
+-------------------------------at 2019-09-19 13:42:10 sync image repositorys-------------------------------
+- mirrorgcrio/ubuntu-nvidia-driver-installer:e3cce9a52ea0034e94512a470f2f26b672204816
+- mirrorgcrio/vpa-recommender:0.6.1
+- mirrorgcrio/vpa-admission-controller:0.6.1
+- mirrorgcrio/ubuntu-nvidia-driver-installer:9708fd54cfc8cb2935bbc1a6f41572c9dbcc4424
+- mirrorgcrio/vpa-updater:0.6.1
+- mirrorgcrio/nvidia-gpu-device-plugin:9708fd54cfc8cb2935bbc1a6f41572c9dbcc4424
+- mirrorgcrio/nvidia-gpu-device-plugin:e3cce9a52ea0034e94512a470f2f26b672204816
+- mirrorgcrio/kube-scheduler-s390x:v1.13.11
+- mirrorgcrio/kube-scheduler-s390x:v1.16.0
 - mirrorgcrio/kube-scheduler-s390x:v1.14.7
 - mirrorgcrio/kube-scheduler-s390x:v1.15.4
 - mirrorgcrio/kube-scheduler-s390x:v1.13.12-beta.0
