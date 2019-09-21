@@ -1,3 +1,13 @@
+-------------------------------at 2019-09-21 13:08:08 sync image repositorys-------------------------------
+- mirrorgcrio/metrics-server-ppc64le:v0.3.5
+- mirrorgcrio/metrics-server-s390x:v0.3.5
+- mirrorgcrio/metrics-server-arm64:v0.3.5
+- mirrorgcrio/metrics-server-arm:v0.3.5
+- mirrorgcrio/metrics-server-amd64:v0.3.5
+- mirrorgcrio/metrics-server:v0.3.5
+- mirrorgcrio/cluster-proportional-autoscaler-ppc64le:1.7.1
+- mirrorgcrio/cluster-proportional-autoscaler-arm:1.7.1
+- mirrorgcrio/cluster-proportional-autoscaler-arm64:1.7.1
 -------------------------------at 2019-09-19 13:42:10 sync image repositorys-------------------------------
 - mirrorgcrio/ubuntu-nvidia-driver-installer:e3cce9a52ea0034e94512a470f2f26b672204816
 - mirrorgcrio/vpa-recommender:0.6.1
