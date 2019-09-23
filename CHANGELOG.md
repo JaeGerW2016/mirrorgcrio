@@ -1,3 +1,5 @@
+-------------------------------at 2019-09-23 13:08:40 sync image repositorys-------------------------------
+- mirrorgcrio/cluster-autoscaler:v1.16.1
 -------------------------------at 2019-09-21 13:08:08 sync image repositorys-------------------------------
 - mirrorgcrio/metrics-server-ppc64le:v0.3.5
 - mirrorgcrio/metrics-server-s390x:v0.3.5
