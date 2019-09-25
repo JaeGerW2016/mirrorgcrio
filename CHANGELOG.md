@@ -1,3 +1,6 @@
+-------------------------------at 2019-09-25 13:16:20 sync image repositorys-------------------------------
+- mirrorgcrio/watcher-daemonset:alpha2
+- mirrorgcrio/event-exporter:v0.3.1
 -------------------------------at 2019-09-24 13:26:22 sync image repositorys-------------------------------
 - mirrorgcrio/ingress-gce-glbc-amd64:v1.7.0
 -------------------------------at 2019-09-23 13:08:40 sync image repositorys-------------------------------
