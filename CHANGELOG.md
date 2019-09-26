@@ -1,3 +1,5 @@
+-------------------------------at 2019-09-26 13:06:35 sync image repositorys-------------------------------
+- mirrorgcrio/addon-resizer:1.8.6
 -------------------------------at 2019-09-25 13:16:20 sync image repositorys-------------------------------
 - mirrorgcrio/watcher-daemonset:alpha2
 - mirrorgcrio/event-exporter:v0.3.1
