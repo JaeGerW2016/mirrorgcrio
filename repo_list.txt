@@ -182,7 +182,6 @@ gcr.io/google-containers/heapster_grafana
 gcr.io/google-containers/heapster_influxdb
 gcr.io/google-containers/hostexec
 gcr.io/google-containers/hpa-example
-gcr.io/google-containers/hpa-example2
 gcr.io/google-containers/hugo
 gcr.io/google-containers/hyperkube
 gcr.io/google-containers/hyperkube-amd64
