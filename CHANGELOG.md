@@ -1,3 +1,7 @@
+-------------------------------at 2019-09-28 13:22:27 sync image repositorys-------------------------------
+- mirrorgcrio/kube-cross:v1.12.10-1
+- mirrorgcrio/gke-metadata-server:2b2c39e51b5516ea87e194706edab17e58ad1096
+- mirrorgcrio/gke-metadata-server:v0.2.10
 -------------------------------at 2019-09-26 13:06:35 sync image repositorys-------------------------------
 - mirrorgcrio/addon-resizer:1.8.6
 -------------------------------at 2019-09-25 13:16:20 sync image repositorys-------------------------------
