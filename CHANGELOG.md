@@ -1,3 +1,11 @@
+-------------------------------at 2019-10-02 13:22:14 sync image repositorys-------------------------------
+- mirrorgcrio/watcher-daemonset:alpha3
+- mirrorgcrio/vpa-updater:0.6.3
+- mirrorgcrio/vpa-recommender:0.6.3
+- mirrorgcrio/vpa-admission-controller:0.6.3
+- mirrorgcrio/gke-metadata-server:v0.2.11
+- mirrorgcrio/gke-metadata-server:7b28a8ea4ac0da33ba983aab02168e36d3aa0680
+- mirrorgcrio/gcp-controller-manager:589980f322ccce64a118660ff58abf6765197c65
 -------------------------------at 2019-09-28 13:22:27 sync image repositorys-------------------------------
 - mirrorgcrio/kube-cross:v1.12.10-1
 - mirrorgcrio/gke-metadata-server:2b2c39e51b5516ea87e194706edab17e58ad1096
