@@ -1,3 +1,29 @@
+-------------------------------at 2019-10-12 13:26:12 sync image repositorys-------------------------------
+- mirrorgcrio/etcd-s390x:3.4.2
+- mirrorgcrio/etcd-s390x:3.4.2-0
+- mirrorgcrio/etcd-s390x:3.3.17
+- mirrorgcrio/etcd-s390x:3.3.17-0
+- mirrorgcrio/etcd-ppc64le:3.4.2
+- mirrorgcrio/etcd-ppc64le:3.4.2-0
+- mirrorgcrio/etcd-ppc64le:3.3.17-0
+- mirrorgcrio/etcd-ppc64le:3.3.17
+- mirrorgcrio/etcd-arm64:3.3.17
+- mirrorgcrio/etcd-arm64:3.4.2-0
+- mirrorgcrio/etcd-arm64:3.4.2
+- mirrorgcrio/etcd-arm:3.4.2
+- mirrorgcrio/etcd-arm:3.4.2-0
+- mirrorgcrio/etcd-arm:3.3.17
+- mirrorgcrio/etcd-arm:3.3.17-0
+- mirrorgcrio/etcd-amd64:3.4.2-0
+- mirrorgcrio/etcd-amd64:3.4.2
+- mirrorgcrio/etcd:3.4.2-0
+- mirrorgcrio/etcd:3.4.2
+- mirrorgcrio/etcd-empty-dir-cleanup:3.4.2.0
+- mirrorgcrio/etcd-empty-dir-cleanup:3.3.17.0
+- mirrorgcrio/etcd-amd64:3.3.17-0
+- mirrorgcrio/etcd-amd64:3.3.17
+- mirrorgcrio/etcd:3.3.17-0
+- mirrorgcrio/etcd:3.3.17
 -------------------------------at 2019-10-11 13:35:58 sync image repositorys-------------------------------
 - mirrorgcrio/watcher-daemonset:alpha4
 - mirrorgcrio/prometheus-to-sd:v0.8.0
