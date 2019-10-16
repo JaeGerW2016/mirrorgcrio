@@ -1,3 +1,27 @@
+-------------------------------at 2019-10-16 13:53:15 sync image repositorys-------------------------------
+- mirrorgcrio/kube-scheduler-s390x:v1.14.8
+- mirrorgcrio/kube-scheduler-s390x:v1.14.9-beta.0
+- mirrorgcrio/kube-scheduler-s390x:v1.13.12
+- mirrorgcrio/kube-scheduler-s390x:v1.16.2
+- mirrorgcrio/kube-scheduler-s390x:v1.15.6-beta.0
+- mirrorgcrio/kube-scheduler-s390x:v1.15.5
+- mirrorgcrio/kube-scheduler-s390x:v1.13.13-beta.0
+- mirrorgcrio/kube-scheduler-s390x:v1.16.3-beta.0
+- mirrorgcrio/kube-scheduler-ppc64le:v1.16.3-beta.0
+- mirrorgcrio/kube-scheduler-ppc64le:v1.13.13-beta.0
+- mirrorgcrio/kube-scheduler-ppc64le:v1.16.2
+- mirrorgcrio/kube-scheduler-ppc64le:v1.15.5
+- mirrorgcrio/kube-scheduler-ppc64le:v1.14.8
+- mirrorgcrio/kube-scheduler-ppc64le:v1.14.9-beta.0
+- mirrorgcrio/kube-scheduler-ppc64le:v1.15.6-beta.0
+- mirrorgcrio/kube-scheduler-arm64:v1.16.2
+- mirrorgcrio/kube-scheduler-arm64:v1.14.9-beta.0
+- mirrorgcrio/kube-scheduler-arm64:v1.13.12
+- mirrorgcrio/kube-scheduler-arm64:v1.14.8
+- mirrorgcrio/kube-scheduler-arm64:v1.13.13-beta.0
+- mirrorgcrio/kube-scheduler-arm64:v1.15.5
+- mirrorgcrio/kube-scheduler-arm:v1.13.13-beta.0
+- mirrorgcrio/kube-scheduler-arm:v1.14.8
 - mirrorgcrio/kube-scheduler-arm:v1.15.5
 - mirrorgcrio/kube-scheduler-arm:v1.14.9-beta.0
 - mirrorgcrio/kube-scheduler-arm:v1.16.3-beta.0
