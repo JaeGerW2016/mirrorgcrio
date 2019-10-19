@@ -1,3 +1,9 @@
+-------------------------------at 2019-10-19 13:23:29 sync image repositorys-------------------------------
+- mirrorgcrio/kube-cross:v1.12.12-1
+- mirrorgcrio/ingress-gce-glbc-amd64:v1.7.1-rc1
+- mirrorgcrio/ingress-gce-glbc-amd64:v1.7.1
+- mirrorgcrio/ingress-gce-glbc-amd64:v1.6.1
+- mirrorgcrio/cluster-autoscaler:v1.13.8
 -------------------------------at 2019-10-16 13:53:15 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.14.8
 - mirrorgcrio/kube-scheduler-s390x:v1.14.9-beta.0
