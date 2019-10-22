@@ -1,3 +1,7 @@
+-------------------------------at 2019-10-22 13:43:49 sync image repositorys-------------------------------
+- mirrorgcrio/ubuntu-nvidia-driver-installer:63e490082d38ac3a9bef87dbfbd6a58c038a07d6
+- mirrorgcrio/nvidia-gpu-device-plugin:63e490082d38ac3a9bef87dbfbd6a58c038a07d6
+- mirrorgcrio/ingress-gce-glbc-amd64:v1.7.1-rc2
 -------------------------------at 2019-10-19 13:23:29 sync image repositorys-------------------------------
 - mirrorgcrio/kube-cross:v1.12.12-1
 - mirrorgcrio/ingress-gce-glbc-amd64:v1.7.1-rc1
