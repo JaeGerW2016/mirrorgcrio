@@ -1,3 +1,9 @@
+-------------------------------at 2019-10-26 13:44:03 sync image repositorys-------------------------------
+- mirrorgcrio/ubuntu-nvidia-driver-installer:0f889ca9d2c1556eeb05195ad332c5c4a41a61eb
+- mirrorgcrio/prometheus-to-sd:v0.8.2
+- mirrorgcrio/nvidia-gpu-device-plugin:0f889ca9d2c1556eeb05195ad332c5c4a41a61eb
+- mirrorgcrio/kube-cross:v1.13.3-1
+- mirrorgcrio/ingress-gce-glbc-amd64:v1.7.1-rc3
 -------------------------------at 2019-10-23 13:24:08 sync image repositorys-------------------------------
 - mirrorgcrio/prometheus-to-sd:v0.8.0-gke.1
 - mirrorgcrio/prometheus-to-sd:v0.7.2-gke.1
