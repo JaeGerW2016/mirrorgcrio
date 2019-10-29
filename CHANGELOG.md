@@ -1,3 +1,18 @@
+-------------------------------at 2019-10-29 13:34:29 sync image repositorys-------------------------------
+- mirrorgcrio/etcd-s390x:3.4.3
+- mirrorgcrio/etcd-s390x:3.4.3-0
+- mirrorgcrio/etcd-ppc64le:3.4.3-0
+- mirrorgcrio/etcd-ppc64le:3.4.3
+- mirrorgcrio/etcd-arm64:3.4.3
+- mirrorgcrio/etcd-arm64:3.4.3-0
+- mirrorgcrio/gke-metadata-server:d25ce10f35cdb1972c39138070c19d82e35a47ce
+- mirrorgcrio/gke-metadata-server:v0.2.12
+- mirrorgcrio/etcd-arm:3.4.3
+- mirrorgcrio/etcd-amd64:3.4.3-0
+- mirrorgcrio/etcd-amd64:3.4.3
+- mirrorgcrio/etcd:3.4.3
+- mirrorgcrio/etcd:3.4.3-0
+- mirrorgcrio/etcd-empty-dir-cleanup:3.4.3.0
 -------------------------------at 2019-10-26 13:44:03 sync image repositorys-------------------------------
 - mirrorgcrio/ubuntu-nvidia-driver-installer:0f889ca9d2c1556eeb05195ad332c5c4a41a61eb
 - mirrorgcrio/prometheus-to-sd:v0.8.2
