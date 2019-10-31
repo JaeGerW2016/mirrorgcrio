@@ -1,3 +1,17 @@
+-------------------------------at 2019-10-31 13:37:26 sync image repositorys-------------------------------
+- mirrorgcrio/node-problem-detector:v0.8.0
+- mirrorgcrio/kube-scheduler-s390x:v1.18.0-alpha.0
+- mirrorgcrio/kube-scheduler-s390x:v1.17.0-beta.0
+- mirrorgcrio/kube-scheduler-ppc64le:v1.18.0-alpha.0
+- mirrorgcrio/kube-scheduler-ppc64le:v1.17.0-beta.0
+- mirrorgcrio/kube-scheduler-arm64:v1.17.0-beta.0
+- mirrorgcrio/kube-scheduler-arm64:v1.18.0-alpha.0
+- mirrorgcrio/kube-scheduler-arm:v1.17.0-beta.0
+- mirrorgcrio/kube-scheduler-arm:v1.18.0-alpha.0
+- mirrorgcrio/kube-scheduler-amd64:v1.18.0-alpha.0
+- mirrorgcrio/kube-scheduler-amd64:v1.17.0-beta.0
+- mirrorgcrio/kube-scheduler:v1.17.0-beta.0
+- mirrorgcrio/kube-scheduler:v1.18.0-alpha.0
 - mirrorgcrio/kube-proxy-s390x:v1.18.0-alpha.0
 - mirrorgcrio/kube-proxy-s390x:v1.17.0-beta.0
 - mirrorgcrio/kube-proxy-ppc64le:v1.17.0-beta.0
