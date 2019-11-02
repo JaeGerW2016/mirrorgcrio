@@ -1,3 +1,10 @@
+-------------------------------at 2019-11-02 13:33:14 sync image repositorys-------------------------------
+- mirrorgcrio/debian-base-ppc64le:v2.0.0
+- mirrorgcrio/debian-base-s390x:v2.0.0
+- mirrorgcrio/debian-base-arm64:v2.0.0
+- mirrorgcrio/debian-base-arm:v2.0.0
+- mirrorgcrio/debian-base:v2.0.0
+- mirrorgcrio/debian-base-amd64:v2.0.0
 -------------------------------at 2019-10-31 13:37:26 sync image repositorys-------------------------------
 - mirrorgcrio/node-problem-detector:v0.8.0
 - mirrorgcrio/kube-scheduler-s390x:v1.18.0-alpha.0
