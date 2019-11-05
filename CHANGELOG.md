@@ -1,3 +1,14 @@
+-------------------------------at 2019-11-05 13:37:29 sync image repositorys-------------------------------
+- mirrorgcrio/visio-stencil-creator:v1.0
+- mirrorgcrio/kube-cross:v1.13.4-1
+- mirrorgcrio/gke-metadata-server:01e9ce0dc67d02654afe40db21aaeaca8b33690d
+- mirrorgcrio/gke-metadata-server:v0.2.13
+- mirrorgcrio/debian-iptables-s390x:v12.0.0
+- mirrorgcrio/debian-iptables-ppc64le:v12.0.0
+- mirrorgcrio/debian-iptables-arm64:v12.0.0
+- mirrorgcrio/debian-iptables-arm:v12.0.0
+- mirrorgcrio/debian-iptables-amd64:v12.0.0
+- mirrorgcrio/debian-iptables:v12.0.0
 -------------------------------at 2019-11-02 13:33:14 sync image repositorys-------------------------------
 - mirrorgcrio/debian-base-ppc64le:v2.0.0
 - mirrorgcrio/debian-base-s390x:v2.0.0
