@@ -462,6 +462,7 @@ gcr.io/google-containers/ubuntu-slim-arm
 gcr.io/google-containers/ubuntu-slim-arm64
 gcr.io/google-containers/ubuntu-slim-ppc64le
 gcr.io/google-containers/update-demo
+gcr.io/google-containers/visio-stencil-creator
 gcr.io/google-containers/volume-ceph
 gcr.io/google-containers/volume-csi
 gcr.io/google-containers/volume-gluster
