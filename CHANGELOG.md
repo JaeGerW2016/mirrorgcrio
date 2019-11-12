@@ -1,3 +1,6 @@
+-------------------------------at 2019-11-12 13:38:03 sync image repositorys-------------------------------
+- mirrorgcrio/watcher-daemonset:alpha5
+- mirrorgcrio/coredns:1.6.5
 -------------------------------at 2019-11-06 13:37:40 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.17.0-beta.1
 - mirrorgcrio/kube-scheduler-ppc64le:v1.17.0-beta.1
