@@ -1,3 +1,5 @@
+-------------------------------at 2019-11-21 13:57:38 sync image repositorys-------------------------------
+- mirrorgcrio/ingress-gce-glbc-amd64:v1.8.0-rc1
 -------------------------------at 2019-11-19 13:45:58 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.17.0-beta.2
 - mirrorgcrio/kube-scheduler-ppc64le:v1.17.0-beta.2
