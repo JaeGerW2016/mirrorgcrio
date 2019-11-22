@@ -1,3 +1,29 @@
+-------------------------------at 2019-11-22 13:59:19 sync image repositorys-------------------------------
+- mirrorgcrio/k8s-dns-sidecar-s390x:1.15.8
+- mirrorgcrio/k8s-dns-sidecar-ppc64le:1.15.8
+- mirrorgcrio/k8s-dns-sidecar-arm64:1.15.8
+- mirrorgcrio/k8s-dns-sidecar:1.15.8
+- mirrorgcrio/k8s-dns-sidecar-arm:1.15.8
+- mirrorgcrio/k8s-dns-sidecar-amd64:1.15.8
+- mirrorgcrio/k8s-dns-node-cache-ppc64le:1.15.8
+- mirrorgcrio/k8s-dns-node-cache-s390x:1.15.8
+- mirrorgcrio/k8s-dns-node-cache-arm:1.15.8
+- mirrorgcrio/k8s-dns-node-cache-arm64:1.15.8
+- mirrorgcrio/k8s-dns-node-cache-amd64:1.15.8
+- mirrorgcrio/k8s-dns-node-cache:1.15.8
+- mirrorgcrio/k8s-dns-kube-dns-s390x:1.15.8
+- mirrorgcrio/k8s-dns-kube-dns-ppc64le:1.15.8
+- mirrorgcrio/k8s-dns-kube-dns-arm64:1.15.8
+- mirrorgcrio/k8s-dns-kube-dns-arm:1.15.8
+- mirrorgcrio/k8s-dns-dnsmasq-nanny-s390x:1.15.8
+- mirrorgcrio/k8s-dns-kube-dns:1.15.8
+- mirrorgcrio/k8s-dns-kube-dns-amd64:1.15.8
+- mirrorgcrio/k8s-dns-dnsmasq-nanny-ppc64le:1.15.8
+- mirrorgcrio/k8s-dns-dnsmasq-nanny-arm64:1.15.8
+- mirrorgcrio/k8s-dns-dnsmasq-nanny-arm:1.15.8
+- mirrorgcrio/k8s-dns-dnsmasq-nanny:1.15.8
+- mirrorgcrio/k8s-dns-dnsmasq-nanny-amd64:1.15.8
+- mirrorgcrio/ingress-gce-glbc-amd64:v1.8.0-rc2
 -------------------------------at 2019-11-21 13:57:38 sync image repositorys-------------------------------
 - mirrorgcrio/ingress-gce-glbc-amd64:v1.8.0-rc1
 -------------------------------at 2019-11-19 13:45:58 sync image repositorys-------------------------------
