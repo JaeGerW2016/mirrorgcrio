@@ -1,3 +1,5 @@
+-------------------------------at 2019-11-26 13:42:39 sync image repositorys-------------------------------
+- mirrorgcrio/cluster-autoscaler:v1.17.0-beta.1
 -------------------------------at 2019-11-23 13:46:30 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.17.0-rc.1
 - mirrorgcrio/kube-scheduler-ppc64le:v1.17.0-rc.1
