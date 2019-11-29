@@ -1,3 +1,6 @@
+-------------------------------at 2019-11-29 13:44:07 sync image repositorys-------------------------------
+- mirrorgcrio/cluster-autoscaler:v1.17.0-beta.2
+- mirrorgcrio/cluster-autoscaler:v1.17.0
 -------------------------------at 2019-11-28 13:44:10 sync image repositorys-------------------------------
 - mirrorgcrio/ubuntu-nvidia-driver-installer:78489379f076ee9175cb6dba3f8295e1788e28f8
 - mirrorgcrio/cluster-autoscaler:v1.14.7
