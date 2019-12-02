@@ -1,3 +1,5 @@
+-------------------------------at 2019-12-02 13:41:09 sync image repositorys-------------------------------
+- mirrorgcrio/addon-resizer:1.8.7
 -------------------------------at 2019-11-29 13:44:07 sync image repositorys-------------------------------
 - mirrorgcrio/cluster-autoscaler:v1.17.0-beta.2
 - mirrorgcrio/cluster-autoscaler:v1.17.0
