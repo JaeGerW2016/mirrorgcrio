@@ -1,3 +1,41 @@
+-------------------------------at 2019-12-04 13:51:33 sync image repositorys-------------------------------
+- mirrorgcrio/kube-scheduler-s390x:v1.17.0-rc.2
+- mirrorgcrio/kube-scheduler-ppc64le:v1.17.0-rc.2
+- mirrorgcrio/kube-scheduler-arm64:v1.17.0-rc.2
+- mirrorgcrio/kube-scheduler-arm:v1.17.0-rc.2
+- mirrorgcrio/kube-scheduler-amd64:v1.17.0-rc.2
+- mirrorgcrio/kube-scheduler:v1.17.0-rc.2
+- mirrorgcrio/kube-proxy-s390x:v1.17.0-rc.2
+- mirrorgcrio/kube-proxy-ppc64le:v1.17.0-rc.2
+- mirrorgcrio/kube-proxy-arm64:v1.17.0-rc.2
+- mirrorgcrio/kube-proxy-arm:v1.17.0-rc.2
+- mirrorgcrio/kube-proxy-amd64:v1.17.0-rc.2
+- mirrorgcrio/kube-proxy:v1.17.0-rc.2
+- mirrorgcrio/kube-controller-manager-s390x:v1.17.0-rc.2
+- mirrorgcrio/kube-controller-manager-ppc64le:v1.17.0-rc.2
+- mirrorgcrio/kube-controller-manager-arm64:v1.17.0-rc.2
+- mirrorgcrio/kube-controller-manager-arm:v1.17.0-rc.2
+- mirrorgcrio/kube-controller-manager:v1.17.0-rc.2
+- mirrorgcrio/kube-controller-manager-amd64:v1.17.0-rc.2
+- mirrorgcrio/kube-apiserver-s390x:v1.17.0-rc.2
+- mirrorgcrio/kube-apiserver-arm64:v1.17.0-rc.2
+- mirrorgcrio/kube-apiserver-ppc64le:v1.17.0-rc.2
+- mirrorgcrio/hyperkube-s390x:v1.17.0-rc.2
+- mirrorgcrio/kube-apiserver-arm:v1.17.0-rc.2
+- mirrorgcrio/kube-apiserver-amd64:v1.17.0-rc.2
+- mirrorgcrio/kube-apiserver:v1.17.0-rc.2
+- mirrorgcrio/hyperkube-ppc64le:v1.17.0-rc.2
+- mirrorgcrio/hyperkube-arm64:v1.17.0-rc.2
+- mirrorgcrio/hyperkube-amd64:v1.17.0-rc.2
+- mirrorgcrio/hyperkube-arm:v1.17.0-rc.2
+- mirrorgcrio/ingress-gce-glbc-amd64:v1.8.0-rc3
+- mirrorgcrio/hyperkube:v1.17.0-rc.2
+- mirrorgcrio/conformance-s390x:v1.17.0-rc.2
+- mirrorgcrio/conformance-arm64:v1.17.0-rc.2
+- mirrorgcrio/conformance-ppc64le:v1.17.0-rc.2
+- mirrorgcrio/conformance-arm:v1.17.0-rc.2
+- mirrorgcrio/conformance-amd64:v1.17.0-rc.2
+- mirrorgcrio/conformance:v1.17.0-rc.2
 -------------------------------at 2019-12-03 13:55:12 sync image repositorys-------------------------------
 - mirrorgcrio/git-sync:v3.1.3
 -------------------------------at 2019-12-02 13:41:09 sync image repositorys-------------------------------
