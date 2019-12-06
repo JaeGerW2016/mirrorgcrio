@@ -1,3 +1,5 @@
+-------------------------------at 2019-12-06 13:57:00 sync image repositorys-------------------------------
+- mirrorgcrio/gcp-controller-manager:ef04ab8ea69a9b2e932713d22e0392ab524cc851
 -------------------------------at 2019-12-04 13:51:33 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.17.0-rc.2
 - mirrorgcrio/kube-scheduler-ppc64le:v1.17.0-rc.2
