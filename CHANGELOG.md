@@ -1,3 +1,7 @@
+-------------------------------at 2019-12-08 13:48:42 sync image repositorys-------------------------------
+- mirrorgcrio/ingress-gce-glbc-amd64:v1.8.0
+- mirrorgcrio/gcp-controller-manager:38e09015388b6e3a58918611cfe08374bf0f97dd
+- mirrorgcrio/cluster-autoscaler:v1.13.9
 -------------------------------at 2019-12-06 13:57:00 sync image repositorys-------------------------------
 - mirrorgcrio/gcp-controller-manager:ef04ab8ea69a9b2e932713d22e0392ab524cc851
 -------------------------------at 2019-12-04 13:51:33 sync image repositorys-------------------------------
