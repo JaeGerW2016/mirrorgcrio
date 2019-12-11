@@ -1,3 +1,26 @@
+-------------------------------at 2019-12-11 14:00:07 sync image repositorys-------------------------------
+- mirrorgcrio/kube-scheduler-s390x:v1.17.1-beta.0
+- mirrorgcrio/kube-scheduler-s390x:v1.17.0
+- mirrorgcrio/kube-scheduler-ppc64le:v1.17.1-beta.0
+- mirrorgcrio/kube-scheduler-ppc64le:v1.17.0
+- mirrorgcrio/kube-scheduler-arm64:v1.17.0
+- mirrorgcrio/kube-scheduler-arm64:v1.17.1-beta.0
+- mirrorgcrio/kube-scheduler-arm:v1.17.1-beta.0
+- mirrorgcrio/kube-scheduler-arm:v1.17.0
+- mirrorgcrio/kube-scheduler-amd64:v1.17.0
+- mirrorgcrio/kube-scheduler-amd64:v1.17.1-beta.0
+- mirrorgcrio/kube-scheduler:v1.17.0
+- mirrorgcrio/kube-scheduler:v1.17.1-beta.0
+- mirrorgcrio/kube-proxy-s390x:v1.17.0
+- mirrorgcrio/kube-proxy-s390x:v1.17.1-beta.0
+- mirrorgcrio/kube-proxy-ppc64le:v1.17.1-beta.0
+- mirrorgcrio/kube-proxy-ppc64le:v1.17.0
+- mirrorgcrio/kube-proxy-arm64:v1.17.0
+- mirrorgcrio/kube-proxy-arm64:v1.17.1-beta.0
+- mirrorgcrio/kube-proxy-arm:v1.17.0
+- mirrorgcrio/kube-proxy-arm:v1.17.1-beta.0
+- mirrorgcrio/kube-proxy-amd64:v1.17.1-beta.0
+- mirrorgcrio/kube-proxy-amd64:v1.17.0
 - mirrorgcrio/kube-proxy:v1.17.1-beta.0
 - mirrorgcrio/kube-controller-manager-s390x:v1.17.0
 - mirrorgcrio/kube-proxy:v1.17.0
