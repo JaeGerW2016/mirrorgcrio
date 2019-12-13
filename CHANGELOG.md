@@ -1,3 +1,5 @@
+-------------------------------at 2019-12-13 14:11:09 sync image repositorys-------------------------------
+- mirrorgcrio/netd-amd64:v0.2.3
 - mirrorgcrio/netd-amd64:latest
 - mirrorgcrio/kube-state-metrics-s390x:v1.8.0
 - mirrorgcrio/kube-state-metrics-ppc64le:v1.8.0
