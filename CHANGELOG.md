@@ -1,3 +1,11 @@
+-------------------------------at 2019-12-21 14:34:25 sync image repositorys-------------------------------
+- mirrorgcrio/prometheus-to-sd:v0.9.0
+- mirrorgcrio/kube-state-metrics-s390x:v1.9.0
+- mirrorgcrio/kube-state-metrics-ppc64le:v1.9.0
+- mirrorgcrio/kube-state-metrics-arm64:v1.9.0
+- mirrorgcrio/kube-state-metrics-arm:v1.9.0
+- mirrorgcrio/kube-state-metrics-amd64:v1.9.0
+- mirrorgcrio/kube-state-metrics:v1.9.0
 -------------------------------at 2019-12-19 14:02:15 sync image repositorys-------------------------------
 - mirrorgcrio/toolbox:20191218-00
 - mirrorgcrio/toolbox:latest
