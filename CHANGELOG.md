@@ -1,3 +1,5 @@
+-------------------------------at 2020-01-07 14:41:59 sync image repositorys-------------------------------
+- mirrorgcrio/kube-cross:v1.13.5-1
 -------------------------------at 2019-12-21 14:34:25 sync image repositorys-------------------------------
 - mirrorgcrio/prometheus-to-sd:v0.9.0
 - mirrorgcrio/kube-state-metrics-s390x:v1.9.0
