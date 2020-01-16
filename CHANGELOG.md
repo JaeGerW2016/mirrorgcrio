@@ -1,3 +1,5 @@
+-------------------------------at 2020-01-16 14:47:03 sync image repositorys-------------------------------
+- mirrorgcrio/kube-cross:v1.13.6-1
 -------------------------------at 2020-01-15 14:21:57 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.17.2-beta.0
 - mirrorgcrio/kube-scheduler-s390x:v1.17.1
