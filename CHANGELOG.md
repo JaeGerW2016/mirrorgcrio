@@ -1,3 +1,6 @@
+-------------------------------at 2020-02-02 14:29:09 sync image repositorys-------------------------------
+- mirrorgcrio/managed-certificate-controller:v0.4.0
+- mirrorgcrio/git-sync:v3.1.5
 -------------------------------at 2020-01-22 14:41:47 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.17.3-beta.0
 - mirrorgcrio/kube-scheduler-s390x:v1.18.0-alpha.2
