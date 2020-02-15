@@ -1,3 +1,15 @@
+-------------------------------at 2020-02-15 14:26:56 sync image repositorys-------------------------------
+- mirrorgcrio/pause-s390x:3.2
+- mirrorgcrio/pause-ppc64le:3.2
+- mirrorgcrio/pause-arm64:3.2
+- mirrorgcrio/pause-arm:3.2
+- mirrorgcrio/pause-amd64:3.2
+- mirrorgcrio/pause:3.2
+- mirrorgcrio/custom-metrics-stackdriver-adapter:v0.10.2
+- mirrorgcrio/coredns:1.6.7
+- mirrorgcrio/cluster-autoscaler:v1.15.5
+- mirrorgcrio/cluster-autoscaler:v1.17.1
+- mirrorgcrio/cluster-autoscaler:v1.16.4
 -------------------------------at 2020-02-13 14:31:16 sync image repositorys-------------------------------
 - mirrorgcrio/kubelet-to-gcm:1.3.1
 - mirrorgcrio/kube-scheduler-s390x:v1.18.0-alpha.5
