@@ -1,3 +1,12 @@
+-------------------------------at 2020-02-25 14:49:09 sync image repositorys-------------------------------
+- mirrorgcrio/kube-state-metrics-s390x:v1.9.5
+- mirrorgcrio/kube-state-metrics-arm64:v1.9.5
+- mirrorgcrio/kube-state-metrics-ppc64le:v1.9.5
+- mirrorgcrio/kube-state-metrics-arm:v1.9.5
+- mirrorgcrio/kube-state-metrics:v1.9.5
+- mirrorgcrio/kube-state-metrics-amd64:v1.9.5
+- mirrorgcrio/ingress-gce-glbc-amd64:v1.7.3
+- mirrorgcrio/ingress-gce-glbc-amd64:v1.8.2
 -------------------------------at 2020-02-20 14:41:08 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.19.0-alpha.0
 - mirrorgcrio/kube-scheduler-s390x:v1.18.0-beta.0
