@@ -1,3 +1,17 @@
+-------------------------------at 2020-02-29 14:31:24 sync image repositorys-------------------------------
+- mirrorgcrio/toolbox:latest
+- mirrorgcrio/nginx-ingress-controller-ppc64le:0.9.0-beta.9
+- mirrorgcrio/node-problem-detector:v0.8.1
+- mirrorgcrio/nginx-ingress-controller-arm:0.9.0-beta.9
+- mirrorgcrio/nginx-ingress-controller-amd64:0.9.0-beta.9
+- mirrorgcrio/nginx-ingress-controller:0.9.0-beta.9
+- mirrorgcrio/ingress-gce-glbc-amd64:v1.6.2
+- mirrorgcrio/hpa-example2:latest
+- mirrorgcrio/etcd-version-monitor:0.1.2-rc.0
+- mirrorgcrio/etcd-amd64:3.1.2
+- mirrorgcrio/etcd-empty-dir-cleanup:3.2.18-0
+- mirrorgcrio/custom-metrics-stackdriver-adapter:v1.0
+- mirrorgcrio/cadvisor:v.25.0
 -------------------------------at 2020-02-26 14:38:23 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.18.0-beta.1
 - mirrorgcrio/kube-scheduler-ppc64le:v1.18.0-beta.1
