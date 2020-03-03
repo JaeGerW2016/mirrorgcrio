@@ -1,3 +1,7 @@
+-------------------------------at 2020-03-03 14:31:56 sync image repositorys-------------------------------
+- mirrorgcrio/prometheus-to-sd:v0.9.1
+- mirrorgcrio/cluster-autoscaler:v1.18.0-beta.0
+- mirrorgcrio/cadvisor:v0.36.0
 -------------------------------at 2020-02-29 14:31:24 sync image repositorys-------------------------------
 - mirrorgcrio/toolbox:latest
 - mirrorgcrio/nginx-ingress-controller-ppc64le:0.9.0-beta.9
