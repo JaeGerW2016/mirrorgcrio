@@ -1,3 +1,19 @@
+-------------------------------at 2020-03-05 14:33:02 sync image repositorys-------------------------------
+- mirrorgcrio/vpa-updater:0.7.0
+- mirrorgcrio/vpa-recommender:0.7.0
+- mirrorgcrio/vpa-admission-controller:0.7.0
+- mirrorgcrio/prometheus-to-sd:v0.9.2
+- mirrorgcrio/kube-dns-perf-client-amd64:2.0
+- mirrorgcrio/debian-iptables-arm64:v11.0.3
+- mirrorgcrio/debian-iptables-s390x:v11.0.3
+- mirrorgcrio/debian-iptables-ppc64le:v11.0.3
+- mirrorgcrio/debian-iptables-arm:v11.0.3
+- mirrorgcrio/debian-iptables-amd64:v11.0.3
+- mirrorgcrio/addon-resizer-s390x:2.3
+- mirrorgcrio/addon-resizer-ppc64le:2.3
+- mirrorgcrio/addon-resizer-arm64:2.3
+- mirrorgcrio/addon-resizer-amd64:2.3
+- mirrorgcrio/addon-resizer-arm:2.3
 -------------------------------at 2020-03-03 14:31:56 sync image repositorys-------------------------------
 - mirrorgcrio/prometheus-to-sd:v0.9.1
 - mirrorgcrio/cluster-autoscaler:v1.18.0-beta.0
