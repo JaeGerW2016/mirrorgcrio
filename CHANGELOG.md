@@ -1,3 +1,16 @@
+-------------------------------at 2020-03-25 14:53:23 sync image repositorys-------------------------------
+- mirrorgcrio/etcd-s390x:3.4.4
+- mirrorgcrio/etcd-s390x:3.4.4-0
+- mirrorgcrio/etcd-ppc64le:3.4.4-0
+- mirrorgcrio/etcd-ppc64le:3.4.4
+- mirrorgcrio/etcd-arm64:3.4.4
+- mirrorgcrio/etcd-arm64:3.4.4-0
+- mirrorgcrio/etcd-arm:3.4.4-0
+- mirrorgcrio/etcd-arm:3.4.4
+- mirrorgcrio/etcd-amd64:3.4.4
+- mirrorgcrio/etcd-amd64:3.4.4-0
+- mirrorgcrio/etcd:3.4.4
+- mirrorgcrio/etcd-empty-dir-cleanup:3.4.4.0
 -------------------------------at 2020-03-21 15:02:33 sync image repositorys-------------------------------
 - mirrorgcrio/k8s-dns-sidecar-s390x:1.15.11
 - mirrorgcrio/k8s-dns-sidecar-ppc64le:1.15.11
