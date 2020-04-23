@@ -1,3 +1,34 @@
+-------------------------------at 2020-04-23 15:04:09 sync image repositorys-------------------------------
+- mirrorgcrio/kube-scheduler-s390x:v1.19.0-alpha.2
+- mirrorgcrio/kube-scheduler-ppc64le:v1.19.0-alpha.2
+- mirrorgcrio/kube-scheduler-arm64:v1.19.0-alpha.2
+- mirrorgcrio/kube-scheduler-arm:v1.19.0-alpha.2
+- mirrorgcrio/kube-scheduler-amd64:v1.19.0-alpha.2
+- mirrorgcrio/kube-scheduler:v1.19.0-alpha.2
+- mirrorgcrio/kube-proxy-s390x:v1.19.0-alpha.2
+- mirrorgcrio/kube-proxy-ppc64le:v1.19.0-alpha.2
+- mirrorgcrio/kube-proxy-arm64:v1.19.0-alpha.2
+- mirrorgcrio/kube-proxy-arm:v1.19.0-alpha.2
+- mirrorgcrio/kube-proxy-amd64:v1.19.0-alpha.2
+- mirrorgcrio/kube-proxy:v1.19.0-alpha.2
+- mirrorgcrio/kube-controller-manager-s390x:v1.19.0-alpha.2
+- mirrorgcrio/kube-controller-manager-ppc64le:v1.19.0-alpha.2
+- mirrorgcrio/kube-controller-manager-arm64:v1.19.0-alpha.2
+- mirrorgcrio/kube-controller-manager-arm:v1.19.0-alpha.2
+- mirrorgcrio/kube-controller-manager-amd64:v1.19.0-alpha.2
+- mirrorgcrio/kube-controller-manager:v1.19.0-alpha.2
+- mirrorgcrio/kube-apiserver-s390x:v1.19.0-alpha.2
+- mirrorgcrio/kube-apiserver-ppc64le:v1.19.0-alpha.2
+- mirrorgcrio/kube-apiserver-arm64:v1.19.0-alpha.2
+- mirrorgcrio/kube-apiserver-arm:v1.19.0-alpha.2
+- mirrorgcrio/kube-apiserver-amd64:v1.19.0-alpha.2
+- mirrorgcrio/kube-apiserver:v1.19.0-alpha.2
+- mirrorgcrio/conformance-s390x:v1.19.0-alpha.2
+- mirrorgcrio/conformance-ppc64le:v1.19.0-alpha.2
+- mirrorgcrio/conformance-arm64:v1.19.0-alpha.2
+- mirrorgcrio/conformance-arm:v1.19.0-alpha.2
+- mirrorgcrio/conformance-amd64:v1.19.0-alpha.2
+- mirrorgcrio/conformance:v1.19.0-alpha.2
 -------------------------------at 2020-04-17 15:24:16 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.17.6-beta.0
 - mirrorgcrio/kube-scheduler-s390x:v1.18.2
