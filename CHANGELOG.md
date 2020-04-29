@@ -1,3 +1,5 @@
+-------------------------------at 2020-04-29 15:06:32 sync image repositorys-------------------------------
+- mirrorgcrio/cpvpa-amd64:v0.8.2
 -------------------------------at 2020-04-23 15:04:09 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.19.0-alpha.2
 - mirrorgcrio/kube-scheduler-ppc64le:v1.19.0-alpha.2
