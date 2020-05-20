@@ -1,3 +1,17 @@
+-------------------------------at 2020-05-20 15:24:24 sync image repositorys-------------------------------
+- mirrorgcrio/kube-scheduler-s390x:v1.18.3
+- mirrorgcrio/kube-scheduler-s390x:v1.19.0-beta.0
+- mirrorgcrio/kube-scheduler-ppc64le:v1.18.4-rc.0
+- mirrorgcrio/kube-scheduler-ppc64le:v1.18.3
+- mirrorgcrio/kube-scheduler-ppc64le:v1.19.0-beta.0
+- mirrorgcrio/kube-scheduler-arm64:v1.18.4-rc.0
+- mirrorgcrio/kube-scheduler-arm64:v1.18.3
+- mirrorgcrio/kube-scheduler-arm64:v1.19.0-beta.0
+- mirrorgcrio/kube-scheduler-arm:v1.18.3
+- mirrorgcrio/kube-scheduler-arm:v1.18.4-rc.0
+- mirrorgcrio/kube-scheduler-arm:v1.19.0-beta.0
+- mirrorgcrio/kube-scheduler-amd64:v1.18.3
+- mirrorgcrio/kube-scheduler-amd64:v1.19.0-beta.0
 - mirrorgcrio/kube-scheduler-amd64:v1.18.4-rc.0
 - mirrorgcrio/kube-scheduler:v1.18.4-rc.0
 - mirrorgcrio/kube-scheduler:v1.19.0-beta.0
