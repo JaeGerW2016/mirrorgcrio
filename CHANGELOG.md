@@ -1,3 +1,6 @@
+-------------------------------at 2020-05-29 15:13:00 sync image repositorys-------------------------------
+- mirrorgcrio/cpvpa-amd64:v0.8.3
+- mirrorgcrio/addon-resizer:1.8.9
 -------------------------------at 2020-05-21 15:33:34 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.16.11-rc.0
 - mirrorgcrio/kube-scheduler-s390x:v1.17.6
