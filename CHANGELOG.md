@@ -1,3 +1,5 @@
+-------------------------------at 2020-06-05 15:45:02 sync image repositorys-------------------------------
+- mirrorgcrio/addon-resizer:1.8.10
 -------------------------------at 2020-06-04 15:23:56 sync image repositorys-------------------------------
 - mirrorgcrio/toolbox:20200603-00
 - mirrorgcrio/node-problem-detector:v0.8.2
