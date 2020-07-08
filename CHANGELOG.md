@@ -1,3 +1,16 @@
+-------------------------------at 2020-07-08 15:44:35 sync image repositorys-------------------------------
+- mirrorgcrio/etcd-s390x:3.4.9-1
+- mirrorgcrio/etcd-s390x:3.4.9
+- mirrorgcrio/etcd-ppc64le:3.4.9
+- mirrorgcrio/etcd-ppc64le:3.4.9-1
+- mirrorgcrio/etcd-arm64:3.4.9-1
+- mirrorgcrio/etcd-arm64:3.4.9
+- mirrorgcrio/etcd-arm:3.4.9
+- mirrorgcrio/etcd-arm:3.4.9-1
+- mirrorgcrio/etcd:3.4.9
+- mirrorgcrio/etcd:3.4.9-1
+- mirrorgcrio/etcd-amd64:3.4.9-1
+- mirrorgcrio/etcd-amd64:3.4.9
 -------------------------------at 2020-06-27 15:54:47 sync image repositorys-------------------------------
 - mirrorgcrio/kube-scheduler-s390x:v1.17.8
 - mirrorgcrio/kube-scheduler-s390x:v1.18.5
